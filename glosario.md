@@ -26,7 +26,14 @@ marp: false
 
 **Analítica prescriptiva**: es el análisis de datos junto con la recomendación de acciones y el impacto que pueden llegar a tener. [M1 T2]
 
+**AND lógico**: conector lógico cuyo valor de la verdad resulta cierto solo si ambas proposiciones de entrada son ciertas, y en falso de cualquier otra forma. [M2 U1]
+
 **API**: interfaz que define la comunicación entre aplicaciones a partir de la definición de subrutinas, funciones y procedimientos. [M1 T2]
+
+**Arduino**: plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. [M1 T3]
+
+**ASCII**: estándar para la representación de caracteres en cualquier dispositivo electrónico, haciendo referencia a una codificación fija que asigna a caracteres imprimibles como letras, números y signos de puntuación y a caracteres de control no imprimibles un código concreto, que al pasar por el dispositivo lo traduce y muestra el carácter deseado. [M2 T1]
+
 
 **Asistente virtual**: software que ayuda a usuarios en múltiples entornos a partir de respuestas automatizadas. [M1 T1]
 
@@ -38,6 +45,8 @@ marp: false
 
 **Big Data**: concepto que se usa para referir a un gran volumen de datos y al paradigma asociado. [M1 T1]
 
+**Byte**: unidad de información de base utilizada en computación y en telecomunicaciones, y que resulta equivalente a un conjunto ordenado de ocho bits. [M2 U1]
+
 ## C
 
 **Chatbot**: software que usa mensajes predefinidos en una conversación entre un interlocutor humano y una máquina. [M1 T1]
@@ -48,6 +57,16 @@ marp: false
 
 **Cloud computing**: modo de computación en el que se ejecutan las cosas sobre Internet. [M1 T2]
 
+**Código binario**: sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 U1]
+
+**Código ensamblador**: implementa una representación simbólica de los códigos de máquina binarios para programar una arquitectura concreta de procesador y constituye la representación más directa del código máquina. [M2 U1]
+
+**Código fuente**: es un archivo o conjunto de archivos, que contienen instrucciones concretas, escritas en un lenguaje de programación, que posteriormente compilan uno o varios programas.[M1 T3]
+
+**Código máquina**: conjunto de instrucciones interpretable por un circuito microprogramable. [M2 U1]
+
+**Consola del sistema**: es un programa que recibe todo aquello que se escribe en la terminal y se encarga de convertirlo en instrucciones que el sistema operativo pueda entender y ejecutar. [M1 T3]
+
 **Customer Relationship Management (CRM)**: es la herramienta que se encarga de gestionar los clientes de una empresa. [M1 T2]
 
 ## D
@@ -55,6 +74,8 @@ marp: false
 **Data lake**: almacén de información en el que se almacena la información en bruto. [M1 T2]
 
 **Data scientist**: experto en data science y cuyo trabajo consiste en extraer conocimiento a partir de datos. [M1 T2]
+
+**Data warehouse**: es una colección de datos orientada a un determinado ámbito (empresa, organización, etc.), integrado, no volátil y variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se utiliza [M1 T2]
 
 **Deepfake**: técnica de edición de vídeo basada en aprendizaje profundo para crear un vídeo falso que emula gestos faciales. [M1 T2]
 
@@ -64,9 +85,13 @@ marp: false
 
 ## E
 
+**Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 U1]
+
 ## F
 
 **Feed**: fuente de datos o canal de difusión de información. [M1 T2]
+
+**Firmware**: programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de un dispositivo de cualquier tipo. [M2 U1]
 
 ## G
 
@@ -74,11 +99,13 @@ marp: false
 
 **Global Positioning System (GPS)**: sistema que permite posicionar un elemento sobre la superficie terrestre. [M1 T1] 
 
-**GSM**: sistema global de comunicaciones móviles que define el estándar de la telefonía móvil de segunda generación. [M1 T1] 
+**Global System for Mobile communication (GSM)**: sistema global de comunicaciones móviles que define el estándar de la telefonía móvil de segunda generación. [M1 T1] 
 
 ## H
 
 **Hardware**: elementos físicos que forman parte de un sistema informático. [M1 T2] 
+
+**High-Definition Multimedia Interface (HDMI)**: conexión digital de tamaño reducido, que nos permite transmitir audio y vídeo en alta definición, sin comprimir, e incluso datos desde un equipo a otro con un único cable. [M2 U1]
 
 **HyperText Markup Language (HTML)**: lenguaje de marcado usado en la creación de páginas web. [M1 T2] 
 
@@ -92,7 +119,9 @@ marp: false
 
 **In-house**: modalidad de trabajo que hace referencia a recursos propios de la empresa. [M1 T2]
 
-**Inteligencia Artificial**: sistemas o máquinas que imitan la inteligencia humana. [M1 T1]
+**Inteligencia Artificial (IA)**: sistemas o máquinas que imitan la inteligencia humana. [M1 T1]
+
+**International Organization for Standardization (ISO)**: Organización Internacional de Normalización o Estandarización, y se dedica a la creación de normas o estándares para asegurar la calidad, seguridad y eficiencia de productos y servicios. Son las llamadas Normas ISO. [M2 U1]
 
 ## J
 
@@ -104,13 +133,19 @@ marp: false
 
 ## L
 
+**LaTeX**: sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos que contengan fórmulas matemáticas. [M1 T3]
+
 ## M
 
 **Machine to Machine (M2M)**: intercambio de información entre máquinas. [M1 T2]
 
+**Metadatos**: es un grupo de datos que describen el contenido informativo de un objeto al que se denomina recurso. [M1 T3]
+
 **Microservicios**: aproximación al desarrollo de software que se basa en construir pequeños servicios que se ejecutan a lo largo de un proceso. [M1 T2]
 
 ## N
+
+**Negación lógica**: función de verdad que cambia su valor de verdadero a falso y viceversa. [M2 U1]
 
 **Nube**: término que hace referencia a Internet. [M1 T2]
 
@@ -120,9 +155,15 @@ marp: false
 
 **On-premise**: software que se instala de forma local en los sistemas de una organización. [M1 T2]
 
+**Open Access**: es un movimiento que promueve el acceso libre y gratuito a la literatura científica, fomentando su libre disponibilidad en Internet y permitiendo a cualquier usuario su lectura, descarga, copia, impresión, distribución o cualquier otro uso legal de la misma. [M1 T3]
+
+**OR lógico**: conector lógico, cuyo valor de la verdad resulta falso solo si ambas proposiciones de entrada son falsas, y en cierto de cualquier otra forma. [M2 U1]
+
 ## P
 
 **Plataforma como servicio (PaaS)**: modelo de contratación de servicios en la nube en el que las empresas construyen servicios sobre determinadas plataformas. [M1 T2]
+
+**Prompt**: símbolo o texto que se encuentra antes del cursor en la consola del sistema. [M1 T3]
 
 **Procesado de lenguaje Natural (NLP)**: campo de la inteligencia artificial que se centra en el lenguaje humano. [M1 T1]
 
@@ -130,7 +171,13 @@ marp: false
 
 ## R
 
+**RAM**: memoria principal de un dispositivo donde se almacenan de forma temporal los datos de los programas que estás utilizando en este momento. [M2 U1]
+
+**Rama**: copia puntual de los archivos que componen un repositorio de código que se crea para introducir modificaciones de código. [M1 T3]
+
 **Reconocimiento facial**: aplicación informática que identifica individuos a partir de sus rasgos faciales. [M1 T2] 
+
+**Release notes**: las notas de publicación son documentos que se distribuyen junto a los productos de software, frecuentemente cuando el producto aún está en desarrollo o en estado de pruebas. [M1 T3]
 
 **Representational State Transfer (REST)**: interfaz que comunica sistemas basada en HTTP. [M1 T2] 
 
@@ -138,14 +185,17 @@ marp: false
 
 ## S
 
+**Script**: fichero que contiene unas instrucciones escritas en código que sirven para ejecutar diversas funciones dentro de un programa. [M1 T3]
+
 **Servidor**: computador que atiende peticiones de máquinas cliente. 
 [M1 T2]
 
 **Simple Object Access Protocol (SOAP)**: protocolo que define la comunicación entre objetos por medio de datos XML. 
 [M1 T2]
 
-**Software**: programas y rutinas que permiten a los sistemas informáticos realizar tareas. 
-[M1 T2]
+**Sistema operativo (SO)**: es un programa o conjunto de programas de un sistema informático, que administra los recursos físicos (hardware), los protocolos de ejecución del resto del contenido (software), así como la interfaz de usuario. [M1 T3]
+
+**Software**: programas y rutinas que permiten a los sistemas informáticos realizar tareas. [M1 T2]
 
 **Software as a Service (SaaS)**: modelo de distribución de software que se ofrece a través de Internet. [M1 T1]
 
@@ -155,13 +205,29 @@ marp: false
 
 ## T
 
-**TCP/IP**: conjunto de protocolos que permiten la comunicación entre los ordenadores de una misma red. [M1 T1]
+**Tabla de verdad**: tabla que recoge el valor de salida para cada combinación de valores de entrada. [M2 U1]
+
+**Tiempo UNIX**:  sistema para la descripción de instantes de tiempo: se define como la cantidad de segundos transcurridos desde la medianoche UTC del 1 de enero de 1970, sin contar segundos intercalares.[M2 U1]
+
+**Transistor**: dispositivo electrónico semiconductor utilizado para entregar una señal de salida en respuesta a una señal de entrada. Dicha señal de salida puede ser amplificada, bloqueada o rectificada. [M2 U1]
+
+**Transmission Control Protocol (TCP/IP)**: conjunto de protocolos que permiten la comunicación entre los ordenadores de una misma red. [M1 T1]
+
+**Transport Layer Security (TSL)**: protocolo criptográfico que proporciona comunicaciones seguras por una red. [M1 U2]
 
 **Tecnologías de la Información y de la Comunicación (TIC)**: recursos y herramientas que se utilizan para el procesado, administración y distribución de la información. [M1 T1]
 
 **Voice over IP (VoIP)**: tecnología que permite enviar y recibir llamadas telefónicas por Internet. [M1 T1]
 
 ## U
+
+**Unidad de Procesamiento Gráfico o Graphics Processing Unit (GPU)**: coprocesador dedicado al procesamiento de gráficos u operaciones de coma flotante, para aligerar la carga de trabajo del procesador central en aplicaciones de una alta carga computacional. [M1 T3]
+
+**Unidad de Procesamiento Tensorial o Tensor Processing Unit (TPU)**: es un circuito integrado de aplicación específica desarrollado por Google para el aprendizaje automático con redes neuronales artificiales y optimizado para usar Tensor Flow. [M1 T3]
+
+**Uniform Resource Locator (URL)**: dirección única que identifica a una página web en Internet. [M1 T3]
+
+**Universal Serial Bus (BUS)**:  bus de comunicaciones que sigue un estándar que define los cables, conectores y protocolos usados en un bus para conectar, comunicar y proveer de alimentación eléctrica entre computadoras, periféricos y dispositivos electrónicos. [M2 U1]
 
 ## V
 
