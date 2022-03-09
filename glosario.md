@@ -26,14 +26,15 @@ marp: false
 
 **Analítica prescriptiva**: es el análisis de datos junto con la recomendación de acciones y el impacto que pueden llegar a tener. [M1 T2]
 
-**AND lógico**: conector lógico cuyo valor de la verdad resulta cierto solo si ambas proposiciones de entrada son ciertas, y en falso de cualquier otra forma. [M2 U1]
+**AND lógico**: conector lógico cuyo valor de la verdad resulta cierto solo si ambas proposiciones de entrada son ciertas, y en falso de cualquier otra forma. [M2 T1]
 
 **API**: interfaz que define la comunicación entre aplicaciones a partir de la definición de subrutinas, funciones y procedimientos. [M1 T2]
 
 **Arduino**: plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. [M1 T3]
 
-**ASCII**: estándar para la representación de caracteres en cualquier dispositivo electrónico, haciendo referencia a una codificación fija que asigna a caracteres imprimibles como letras, números y signos de puntuación y a caracteres de control no imprimibles un código concreto, que al pasar por el dispositivo lo traduce y muestra el carácter deseado. [M2 T1]
+**Array**: Zona de almacenamiento contiguo que contiene una serie de elementos del mismo tipo, los elementos de la matriz. [M2 T2]
 
+**ASCII**: estándar para la representación de caracteres en cualquier dispositivo electrónico, haciendo referencia a una codificación fija que asigna a caracteres imprimibles como letras, números y signos de puntuación y a caracteres de control no imprimibles un código concreto, que al pasar por el dispositivo lo traduce y muestra el carácter deseado. [M2 T1]
 
 **Asistente virtual**: software que ayuda a usuarios en múltiples entornos a partir de respuestas automatizadas. [M1 T1]
 
@@ -45,9 +46,11 @@ marp: false
 
 **Big Data**: concepto que se usa para referir a un gran volumen de datos y al paradigma asociado. [M1 T1]
 
-**Byte**: unidad de información de base utilizada en computación y en telecomunicaciones, y que resulta equivalente a un conjunto ordenado de ocho bits. [M2 U1]
+**Byte**: unidad de información de base utilizada en computación y en telecomunicaciones, y que resulta equivalente a un conjunto ordenado de ocho bits. [M2 T1]
 
 ## C
+
+**Case sensitive**: expresión usada en informática que se aplica a los textos en los que tiene alguna relevancia escribir un carácter en mayúsculas o minúsculas. [M2 T2]
 
 **Chatbot**: software que usa mensajes predefinidos en una conversación entre un interlocutor humano y una máquina. [M1 T1]
 
@@ -57,13 +60,21 @@ marp: false
 
 **Cloud computing**: modo de computación en el que se ejecutan las cosas sobre Internet. [M1 T2]
 
-**Código binario**: sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 U1]
+**Código binario**: sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
 
-**Código ensamblador**: implementa una representación simbólica de los códigos de máquina binarios para programar una arquitectura concreta de procesador y constituye la representación más directa del código máquina. [M2 U1]
+**Código ensamblador**: implementa una representación simbólica de los códigos de máquina binarios para programar una arquitectura concreta de procesador y constituye la representación más directa del código máquina. [M2 T1]
 
 **Código fuente**: es un archivo o conjunto de archivos, que contienen instrucciones concretas, escritas en un lenguaje de programación, que posteriormente compilan uno o varios programas.[M1 T3]
 
-**Código máquina**: conjunto de instrucciones interpretable por un circuito microprogramable. [M2 U1]
+**Código máquina**: conjunto de instrucciones interpretable por un circuito microprogramable. [M2 T1]
+
+**Column-wise**: Forma de acceder a los datos de una matriz por columnas [M2 T2]
+
+**Coma flotante**: Notación científica usada en los ordenadores con la cual se pueden representar números reales extremadamente grandes y pequeños de una manera muy eficiente y compacta, y con la que se pueden realizar operaciones aritméticas [M2 T2]
+
+**Comentario multilínea**: Comentarios que se alargan a lo largo de varias líneas [M2 T2]
+
+**Comentario por bloque**: Fragmento del programa que será ignorado por el compilador y por tanto no será ejecutado como código. La finalidad de un comentario en bloque es servir de guía o información para una mejor comprensión del programa [M2 T2]
 
 **Consola del sistema**: es un programa que recibe todo aquello que se escribe en la terminal y se encarga de convertirlo en instrucciones que el sistema operativo pueda entender y ejecutar. [M1 T3]
 
@@ -81,17 +92,23 @@ marp: false
 
 **DevOps**: prácticas que agrupan el desarrollo de software y las operaciones de TI. [M1 T2]
 
+**Desviación estándar**: cuantificación de la variación o la dispersión de un conjunto de datos numéricos [M2 T2]
+
 **DIKW**: acrónimo de data, information, knowledge y wisdom que se usa para referirse a un modelo de conocimieto. [M1 T2]
 
 ## E
 
-**Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 U1]
+**Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 T1]
 
 ## F
 
+**FAQ**: Abreviación para el concepto de preguntas frecuentes se refiere a una lista de preguntas y respuestas que surgen frecuentemente dentro de un determinado contexto y para un tema en particular [M2 T2]
+
 **Feed**: fuente de datos o canal de difusión de información. [M1 T2]
 
-**Firmware**: programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de un dispositivo de cualquier tipo. [M2 U1]
+**Firmware**: programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de un dispositivo de cualquier tipo. [M2 T1]
+
+**Fortran**: Lenguaje de programación de alto nivel de propósito general, procedimental e imperativo, que está especialmente adaptado al cálculo numérico y a la computación científica. [M2 T2]
 
 ## G
 
@@ -105,7 +122,7 @@ marp: false
 
 **Hardware**: elementos físicos que forman parte de un sistema informático. [M1 T2] 
 
-**High-Definition Multimedia Interface (HDMI)**: conexión digital de tamaño reducido, que nos permite transmitir audio y vídeo en alta definición, sin comprimir, e incluso datos desde un equipo a otro con un único cable. [M2 U1]
+**High-Definition Multimedia Interface (HDMI)**: conexión digital de tamaño reducido, que nos permite transmitir audio y vídeo en alta definición, sin comprimir, e incluso datos desde un equipo a otro con un único cable. [M2 T1]
 
 **HyperText Markup Language (HTML)**: lenguaje de marcado usado en la creación de páginas web. [M1 T2] 
 
@@ -115,13 +132,17 @@ marp: false
 
 ## I
 
+**Indexar**: Elaborar un índice sobre los datos para facilitar el acceso a los mismos [M2 T2]
+
 **Infraestructura como servicio (IaaS)**: modelo de contratación de servicios en la nube en el que las empresas contratan los elementos necesarios de la infraestructura (almacenamiento, capacidad de cálculo...). [M1 T2]
 
 **In-house**: modalidad de trabajo que hace referencia a recursos propios de la empresa. [M1 T2]
 
 **Inteligencia Artificial (IA)**: sistemas o máquinas que imitan la inteligencia humana. [M1 T1]
 
-**International Organization for Standardization (ISO)**: Organización Internacional de Normalización o Estandarización, y se dedica a la creación de normas o estándares para asegurar la calidad, seguridad y eficiencia de productos y servicios. Son las llamadas Normas ISO. [M2 U1]
+**International Organization for Standardization (ISO)**: Organización Internacional de Normalización o Estandarización, y se dedica a la creación de normas o estándares para asegurar la calidad, seguridad y eficiencia de productos y servicios. Son las llamadas Normas ISO. [M2 T1]
+
+**Intersección**: la intersección de dos conjuntos es una operación que resulta en otro conjunto que contiene los elementos comunes a los conjuntos de partida [M2 T2]
 
 ## J
 
@@ -139,13 +160,17 @@ marp: false
 
 **Machine to Machine (M2M)**: intercambio de información entre máquinas. [M1 T2]
 
+**Media**: valor promedio de un conjunto de datos numéricos [M2 T2]
+
+**Mediana**: estadístico de posición central que parte la distribución en dos, es decir, deja la misma cantidad de valores a un lado que a otro [M2 T2]
+
 **Metadatos**: es un grupo de datos que describen el contenido informativo de un objeto al que se denomina recurso. [M1 T3]
 
 **Microservicios**: aproximación al desarrollo de software que se basa en construir pequeños servicios que se ejecutan a lo largo de un proceso. [M1 T2]
 
 ## N
 
-**Negación lógica**: función de verdad que cambia su valor de verdadero a falso y viceversa. [M2 U1]
+**Negación lógica**: función de verdad que cambia su valor de verdadero a falso y viceversa. [M2 T1]
 
 **Nube**: término que hace referencia a Internet. [M1 T2]
 
@@ -157,7 +182,7 @@ marp: false
 
 **Open Access**: es un movimiento que promueve el acceso libre y gratuito a la literatura científica, fomentando su libre disponibilidad en Internet y permitiendo a cualquier usuario su lectura, descarga, copia, impresión, distribución o cualquier otro uso legal de la misma. [M1 T3]
 
-**OR lógico**: conector lógico, cuyo valor de la verdad resulta falso solo si ambas proposiciones de entrada son falsas, y en cierto de cualquier otra forma. [M2 U1]
+**OR lógico**: conector lógico, cuyo valor de la verdad resulta falso solo si ambas proposiciones de entrada son falsas, y en cierto de cualquier otra forma. [M2 T1]
 
 ## P
 
@@ -181,14 +206,20 @@ marp: false
 
 **Representational State Transfer (REST)**: interfaz que comunica sistemas basada en HTTP. [M1 T2] 
 
+**Residuo**: Número que se le ha de restar al dividendo para que sea igual a un determinado número de veces el divisor. [M2 T2]
+
 **Roadmap**: plan de programación o hoja de ruta que define el desarrollo del software con objetivos corto, medio y largo plazo; así como los hitos más relevantes. [M1 T2] 
 
 ## S
 
 **Script**: fichero que contiene unas instrucciones escritas en código que sirven para ejecutar diversas funciones dentro de un programa. [M1 T3]
 
+**Semilla**: número utilizado para inicializar un generador de números pseudoaleatorios [M2 T2]
+
 **Servidor**: computador que atiende peticiones de máquinas cliente. 
 [M1 T2]
+
+**Simétrica**: Se dice que una función es simétrica si su valor no cambia al modificar el orden de sus argumentos [M2 T2]
 
 **Simple Object Access Protocol (SOAP)**: protocolo que define la comunicación entre objetos por medio de datos XML. 
 [M1 T2]
@@ -205,15 +236,15 @@ marp: false
 
 ## T
 
-**Tabla de verdad**: tabla que recoge el valor de salida para cada combinación de valores de entrada. [M2 U1]
+**Tabla de verdad**: tabla que recoge el valor de salida para cada combinación de valores de entrada. [M2 T1]
 
-**Tiempo UNIX**:  sistema para la descripción de instantes de tiempo: se define como la cantidad de segundos transcurridos desde la medianoche UTC del 1 de enero de 1970, sin contar segundos intercalares.[M2 U1]
+**Tiempo UNIX**:  sistema para la descripción de instantes de tiempo: se define como la cantidad de segundos transcurridos desde la medianoche UTC del 1 de enero de 1970, sin contar segundos intercalares.[M2 T1]
 
-**Transistor**: dispositivo electrónico semiconductor utilizado para entregar una señal de salida en respuesta a una señal de entrada. Dicha señal de salida puede ser amplificada, bloqueada o rectificada. [M2 U1]
+**Transistor**: dispositivo electrónico semiconductor utilizado para entregar una señal de salida en respuesta a una señal de entrada. Dicha señal de salida puede ser amplificada, bloqueada o rectificada. [M2 T1]
 
 **Transmission Control Protocol (TCP/IP)**: conjunto de protocolos que permiten la comunicación entre los ordenadores de una misma red. [M1 T1]
 
-**Transport Layer Security (TSL)**: protocolo criptográfico que proporciona comunicaciones seguras por una red. [M1 U2]
+**Transport Layer Security (TSL)**: protocolo criptográfico que proporciona comunicaciones seguras por una red. [M1 T2]
 
 **Tecnologías de la Información y de la Comunicación (TIC)**: recursos y herramientas que se utilizan para el procesado, administración y distribución de la información. [M1 T1]
 
@@ -227,11 +258,17 @@ marp: false
 
 **Uniform Resource Locator (URL)**: dirección única que identifica a una página web en Internet. [M1 T3]
 
-**Universal Serial Bus (BUS)**:  bus de comunicaciones que sigue un estándar que define los cables, conectores y protocolos usados en un bus para conectar, comunicar y proveer de alimentación eléctrica entre computadoras, periféricos y dispositivos electrónicos. [M2 U1]
+**Unión**: En la teoría de conjuntos, la unión de dos conjuntos es una operación que resulta en otro conjunto, cuyos elementos son los mismos de los conjuntos iniciales [M2 T2]
+
+**Universal Serial Bus (BUS)**:  bus de comunicaciones que sigue un estándar que define los cables, conectores y protocolos usados en un bus para conectar, comunicar y proveer de alimentación eléctrica entre computadoras, periféricos y dispositivos electrónicos. [M2 T1]
 
 ## V
 
+**Varianza**: medida de dispersión definida como la esperanza del cuadrado de la desviación de dicha variable respecto a su media [M2 T2]
+
 ## W
+
+**Warning**: Mensajes que muestra el compilador sobre situaciones “especiales” en las que se ha detectado una anomalía pero que, asumiendo ciertas condiciones, la traducción del programa continúa [M2 T2]
 
 **Web** o **Word Wide Web** o **WWW**: sistema interconectado de páginas públicas a través de Internet. [M1 T1]
 
