@@ -18,6 +18,8 @@ marp: false
 
 ## A
 
+**Algoritmo**: conjunto ordenado de operaciones que permite hacer cálculos y hallar la solución de un determinado tipo de problemas. [M2 T3]
+
 **Analítica de diagnóstico**: análisis de datos detallado sobre un problema particular. [M1 T2]
 
 **Analítica descriptiva**: procesamiento de datos en el que se crea un resumen del histórico de datos. [M1 T2]
@@ -68,6 +70,8 @@ marp: false
 
 **Código máquina**: conjunto de instrucciones interpretable por un circuito microprogramable. [M2 T1]
 
+**Colab**: producto de Google Research que permite a los usuarios escribir y ejecutar código en Python en un navegador [M2 T3]
+
 **Column-wise**: Forma de acceder a los datos de una matriz por columnas [M2 T2]
 
 **Coma flotante**: Notación científica usada en los ordenadores con la cual se pueden representar números reales extremadamente grandes y pequeños de una manera muy eficiente y compacta, y con la que se pueden realizar operaciones aritméticas [M2 T2]
@@ -100,6 +104,8 @@ marp: false
 
 **Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 T1]
 
+**Entorno desarrollo integrado (IDE)**: también conocido como entorno de desarrollo interactivo y consiste ene una aplicación que proporciona un servicio integral al desarrollador de código [M2 T3]
+
 ## F
 
 **FAQ**: Abreviación para el concepto de preguntas frecuentes se refiere a una lista de preguntas y respuestas que surgen frecuentemente dentro de un determinado contexto y para un tema en particular [M2 T2]
@@ -109,6 +115,8 @@ marp: false
 **Firmware**: programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de un dispositivo de cualquier tipo. [M2 T1]
 
 **Fortran**: Lenguaje de programación de alto nivel de propósito general, procedimental e imperativo, que está especialmente adaptado al cálculo numérico y a la computación científica. [M2 T2]
+
+**Función reservada**: palabras que ya se usan en un lenguaje de programación con una finalidad concreta y que por tanto no puede usarse para identificar otros elementos [M2 T3]
 
 ## G
 
@@ -124,6 +132,8 @@ marp: false
 
 **High-Definition Multimedia Interface (HDMI)**: conexión digital de tamaño reducido, que nos permite transmitir audio y vídeo en alta definición, sin comprimir, e incluso datos desde un equipo a otro con un único cable. [M2 T1]
 
+**Hola mundo**: programa básico que muestra el texto “Hola mundo”, se considera el ejemplo más básico de programación [M2 T3]
+
 **HyperText Markup Language (HTML)**: lenguaje de marcado usado en la creación de páginas web. [M1 T2] 
 
 **HyperText Transfer Protocol (HTTP)**: protocolo usado en la capa de aplicación para la transmisión de documentos. [M1 T2] 
@@ -131,6 +141,8 @@ marp: false
 **HyperText Transfer Protocol Secure (HTTPS)**: protocolo que usa TLS para crear un canal cifrado para la transmisión de documentos. [M1 T1]
 
 ## I
+
+**Indentación**: es un anglicismo que se usa para indicar que el texto está separado del margen izquierdo  [M2 T3]
 
 **Indexar**: Elaborar un índice sobre los datos para facilitar el acceso a los mismos [M2 T2]
 
@@ -155,6 +167,8 @@ marp: false
 ## L
 
 **LaTeX**: sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos que contengan fórmulas matemáticas. [M1 T3]
+
+**Lenguaje máquina**: Sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
 
 ## M
 
@@ -187,6 +201,8 @@ marp: false
 ## P
 
 **Plataforma como servicio (PaaS)**: modelo de contratación de servicios en la nube en el que las empresas construyen servicios sobre determinadas plataformas. [M1 T2]
+
+**Programa**: conjunto de pasos lógicos escritos en un lenguaje de programación que permiten llevar a cabo una tarea [M2 T3]
 
 **Prompt**: símbolo o texto que se encuentra antes del cursor en la consola del sistema. [M1 T3]
 
@@ -232,6 +248,8 @@ marp: false
 
 **Smartphone**: teléfono móvil con un sistema operativo que le permite funcionar como un pequeño ordenador. [M1 T1]
 
+**String**: secuencia de caracteres usado para representar texto [M2 T3]
+
 **Spam**: forma de comunicación no deseada por el usuario que se envía de forma masiva. [M1 T1]
 
 ## T
@@ -260,7 +278,7 @@ marp: false
 
 **Unión**: En la teoría de conjuntos, la unión de dos conjuntos es una operación que resulta en otro conjunto, cuyos elementos son los mismos de los conjuntos iniciales [M2 T2]
 
-**Universal Serial Bus (BUS)**:  bus de comunicaciones que sigue un estándar que define los cables, conectores y protocolos usados en un bus para conectar, comunicar y proveer de alimentación eléctrica entre computadoras, periféricos y dispositivos electrónicos. [M2 T1]
+**Universal Serial Bus (USB o BUS)**:  bus de comunicaciones que sigue un estándar que define los cables, conectores y protocolos usados en un bus para conectar, comunicar y proveer de alimentación eléctrica entre computadoras, periféricos y dispositivos electrónicos. [M2 T1]
 
 ## V
 
