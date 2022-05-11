@@ -54,6 +54,8 @@ marp: false
 
 **Case sensitive**: expresión usada en informática que se aplica a los textos en los que tiene alguna relevancia escribir un carácter en mayúsculas o minúsculas. [M2 T2]
 
+**Casting**: consiste en transformar una variable de un tipo a otro [M2 T3]
+
 **Chatbot**: software que usa mensajes predefinidos en una conversación entre un interlocutor humano y una máquina. [M1 T1]
 
 **Chief Executive Officer (CEO)**: director ejecutivo de una empresa. [M1 T2]
@@ -141,6 +143,8 @@ marp: false
 **HyperText Transfer Protocol Secure (HTTPS)**: protocolo que usa TLS para crear un canal cifrado para la transmisión de documentos. [M1 T1]
 
 ## I
+
+**IDE**: un entorno de desarrollo integrado es una aplicación que integra a su vez varias aplicaciones de utilidad para los desarrolladores. [M2 T3]
 
 **Indentación**: es un anglicismo que se usa para indicar que el texto está separado del margen izquierdo  [M2 T3]
 
