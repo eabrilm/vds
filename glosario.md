@@ -106,7 +106,7 @@ marp: false
 
 **Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 T1]
 
-**Entorno desarrollo integrado (IDE)**: también conocido como entorno de desarrollo interactivo y consiste ene una aplicación que proporciona un servicio integral al desarrollador de código [M2 T3]
+**Entorno desarrollo integrado (IDE)**: también conocido como entorno de desarrollo interactivo y consiste en una aplicación que proporciona un servicio integral al desarrollador de código [M2 T3]
 
 ## F
 
@@ -144,7 +144,7 @@ marp: false
 
 ## I
 
-**IDE**: un entorno de desarrollo integrado es una aplicación que integra a su vez varias aplicaciones de utilidad para los desarrolladores. [M2 T3]
+**IDE**: también conocido como entorno de desarrollo interactivo y consiste en una aplicación que proporciona un servicio integral al desarrollador de código. [M2 T3]
 
 **Indentación**: es un anglicismo que se usa para indicar que el texto está separado del margen izquierdo  [M2 T3]
 
