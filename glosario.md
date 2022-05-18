@@ -130,7 +130,9 @@ marp: false
 
 ## H
 
-**Hardware**: elementos físicos que forman parte de un sistema informático. [M1 T2] 
+**Hardware**: elementos físicos que forman parte de un sistema informático. [M1 T2]
+
+**Hasheable**: en Python se dice que un objeto es hasheable si si valor hash,número enteros que se usan para comparar objetos de forma rápida, no cambia durante el ciclo de vida del objeto [M2 T3]
 
 **High-Definition Multimedia Interface (HDMI)**: conexión digital de tamaño reducido, que nos permite transmitir audio y vídeo en alta definición, sin comprimir, e incluso datos desde un equipo a otro con un único cable. [M2 T1]
 
