@@ -250,11 +250,13 @@ marp: false
 
 **Sistema operativo (SO)**: es un programa o conjunto de programas de un sistema informático, que administra los recursos físicos (hardware), los protocolos de ejecución del resto del contenido (software), así como la interfaz de usuario. [M1 T3]
 
+**Slicing**: característica de Python que permite acceder de forma rápida a las partes de una secuencia (cadenas, tuplas o listas) [M2 T3]
+
+**Smartphone**: teléfono móvil con un sistema operativo que le permite funcionar como un pequeño ordenador. [M1 T1]
+
 **Software**: programas y rutinas que permiten a los sistemas informáticos realizar tareas. [M1 T2]
 
 **Software as a Service (SaaS)**: modelo de distribución de software que se ofrece a través de Internet. [M1 T1]
-
-**Smartphone**: teléfono móvil con un sistema operativo que le permite funcionar como un pequeño ordenador. [M1 T1]
 
 **Stack tecnológico**: Es el listado de todos los servicios tecnológicos utilizados para construir y ejecutar una sola aplicación.[M2 T3]
 
