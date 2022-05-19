@@ -100,6 +100,8 @@ marp: false
 
 **Desviación estándar**: cuantificación de la variación o la dispersión de un conjunto de datos numéricos [M2 T2]
 
+**Diagrama**: Conjunto de pasos lógicos escritos en un lenguaje de programación que permiten llevar a cabo una tarea. [M2 T3]
+
 **DIKW**: acrónimo de data, information, knowledge y wisdom que se usa para referirse a un modelo de conocimieto. [M1 T2]
 
 ## E
@@ -253,6 +255,8 @@ marp: false
 **Software as a Service (SaaS)**: modelo de distribución de software que se ofrece a través de Internet. [M1 T1]
 
 **Smartphone**: teléfono móvil con un sistema operativo que le permite funcionar como un pequeño ordenador. [M1 T1]
+
+**Stack tecnológico**: Es el listado de todos los servicios tecnológicos utilizados para construir y ejecutar una sola aplicación.[M2 T3]
 
 **String**: secuencia de caracteres usado para representar texto [M2 T3]
 
