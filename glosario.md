@@ -18,6 +18,8 @@ marp: false
 
 ## A
 
+**Administrador de contextos (context manager)**: estructura de programación que se encarga de gestionar los recursos de manera automática [M2 T3]
+
 **Algoritmo**: conjunto ordenado de operaciones que permite hacer cálculos y hallar la solución de un determinado tipo de problemas. [M2 T3]
 
 **Analítica de diagnóstico**: análisis de datos detallado sobre un problema particular. [M1 T2]
@@ -39,6 +41,8 @@ marp: false
 **ASCII**: estándar para la representación de caracteres en cualquier dispositivo electrónico, haciendo referencia a una codificación fija que asigna a caracteres imprimibles como letras, números y signos de puntuación y a caracteres de control no imprimibles un código concreto, que al pasar por el dispositivo lo traduce y muestra el carácter deseado. [M2 T1]
 
 **Asistente virtual**: software que ayuda a usuarios en múltiples entornos a partir de respuestas automatizadas. [M1 T1]
+
+**Atributo**: característica o propiedad de un objeto [M2 T3]
 
 **Autopilot**: sistema de ayuda a la conducción de nivel 2 que viene integrado en los coches de la marca Tesla. [M1 T2]
 
@@ -84,6 +88,8 @@ marp: false
 
 **Consola del sistema**: es un programa que recibe todo aquello que se escribe en la terminal y se encarga de convertirlo en instrucciones que el sistema operativo pueda entender y ejecutar. [M1 T3]
 
+**Cursor**: objeto que se crea al acceder a un recurso y que apunta a la siguiente posición de memoria a leer [M2 T3]
+
 **Customer Relationship Management (CRM)**: es la herramienta que se encarga de gestionar los clientes de una empresa. [M1 T2]
 
 ## D
@@ -93,6 +99,8 @@ marp: false
 **Data scientist**: experto en data science y cuyo trabajo consiste en extraer conocimiento a partir de datos. [M1 T2]
 
 **Data warehouse**: es una colección de datos orientada a un determinado ámbito (empresa, organización, etc.), integrado, no volátil y variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se utiliza [M1 T2]
+
+**Decorador**: patrón de diseño que consiste en una función que engloba a otra función [M2 T3]
 
 **Deepfake**: técnica de edición de vídeo basada en aprendizaje profundo para crear un vídeo falso que emula gestos faciales. [M1 T2]
 
@@ -188,6 +196,8 @@ marp: false
 
 **Metadatos**: es un grupo de datos que describen el contenido informativo de un objeto al que se denomina recurso. [M1 T3]
 
+**Método**: función de la que dispone un objeto y que se puede invocar [M2 T3]
+
 **Microservicios**: aproximación al desarrollo de software que se basa en construir pequeños servicios que se ejecutan a lo largo de un proceso. [M1 T2]
 
 ## N
@@ -207,6 +217,10 @@ marp: false
 **OR lógico**: conector lógico, cuyo valor de la verdad resulta falso solo si ambas proposiciones de entrada son falsas, y en cierto de cualquier otra forma. [M2 T1]
 
 ## P
+
+**Paso por referencia**: una función recibe un puntero que apunta a la dirección en memoria de dicho variable [M2 T3]
+
+**Paso por valor**: una función recibe un parámetro que es una copia del valor [M2 T3]
 
 **Plataforma como servicio (PaaS)**: modelo de contratación de servicios en la nube en el que las empresas construyen servicios sobre determinadas plataformas. [M1 T2]
 
