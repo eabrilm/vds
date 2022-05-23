@@ -218,6 +218,8 @@ marp: false
 
 ## P
 
+**Parámetro posicional**: es aquel parámetro que se le pasa a una función con una posición determinada [M2 T3]
+
 **Paso por referencia**: una función recibe un puntero que apunta a la dirección en memoria de dicho variable [M2 T3]
 
 **Paso por valor**: una función recibe un parámetro que es una copia del valor [M2 T3]
