@@ -100,6 +100,8 @@ marp: false
 
 **Data warehouse**: es una colección de datos orientada a un determinado ámbito (empresa, organización, etc.), integrado, no volátil y variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se utiliza [M1 T2]
 
+**Debug**: el debugear o depurar consiste en identificar y corregir los errores que existen en las piezas de código [M2 T3]
+
 **Decorador**: patrón de diseño que consiste en una función que engloba a otra función [M2 T3]
 
 **Deepfake**: técnica de edición de vídeo basada en aprendizaje profundo para crear un vídeo falso que emula gestos faciales. [M1 T2]
