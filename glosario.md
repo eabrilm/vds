@@ -120,6 +120,8 @@ marp: false
 
 **Entorno desarrollo integrado (IDE)**: también conocido como entorno de desarrollo interactivo y consiste en una aplicación que proporciona un servicio integral al desarrollador de código [M2 T3]
 
+**Escapar**: consiste en añadir un carácter de escape antes de un carácter especial para que sea tenido en cuenta [M2 T3]
+
 ## F
 
 **FAQ**: Abreviación para el concepto de preguntas frecuentes se refiere a una lista de preguntas y respuestas que surgen frecuentemente dentro de un determinado contexto y para un tema en particular [M2 T2]
@@ -188,9 +190,13 @@ marp: false
 
 **Lenguaje máquina**: Sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
 
+**LISP**: familia de lenguajes de programación basada en el procesamiento de listas [M2 T3]
+
 ## M
 
 **Machine to Machine (M2M)**: intercambio de información entre máquinas. [M1 T2]
+
+**Matriz identidad**: matriz cuadrada (número de filas igual al número de columna) con todos los elementos igual a cero salvo la diagonal principal formada por unos y que es un elemento neutro en el producto de matrices [M2 T3]
 
 **Media**: valor promedio de un conjunto de datos numéricos [M2 T2]
 
@@ -230,6 +236,8 @@ marp: false
 
 **Programa**: conjunto de pasos lógicos escritos en un lenguaje de programación que permiten llevar a cabo una tarea [M2 T3]
 
+**Programación funcional**: paradigma declarativo de programación que expresa la secuencia de las distintas operaciones a llevar a cabo [M2 T3]
+
 **Prompt**: símbolo o texto que se encuentra antes del cursor en la consola del sistema. [M1 T3]
 
 **Procesado de lenguaje Natural (NLP)**: campo de la inteligencia artificial que se centra en el lenguaje humano. [M1 T1]
@@ -243,6 +251,8 @@ marp: false
 **Rama**: copia puntual de los archivos que componen un repositorio de código que se crea para introducir modificaciones de código. [M1 T3]
 
 **Reconocimiento facial**: aplicación informática que identifica individuos a partir de sus rasgos faciales. [M1 T2] 
+
+**Regex**: abreviación de expresión regular para referirse a la secuencia de caracteres que forma un patrón de búsqueda [M2 T3]
 
 **Release notes**: las notas de publicación son documentos que se distribuyen junto a los productos de software, frecuentemente cuando el producto aún está en desarrollo o en estado de pruebas. [M1 T3]
 
@@ -311,6 +321,10 @@ marp: false
 **Universal Serial Bus (USB o BUS)**:  bus de comunicaciones que sigue un estándar que define los cables, conectores y protocolos usados en un bus para conectar, comunicar y proveer de alimentación eléctrica entre computadoras, periféricos y dispositivos electrónicos. [M2 T1]
 
 ## V
+
+**Variable global**: variable que se define fuera del cuerpo de cualquier función y que se puede usar en cualquier parte de un programa [M2 T3]
+
+**Variable local**: variable cuyo uso está restringido al ámbito de la función en la que se ha declarado [M2 T3]
 
 **Varianza**: medida de dispersión definida como la esperanza del cuadrado de la desviación de dicha variable respecto a su media [M2 T2]
 
