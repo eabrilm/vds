@@ -94,6 +94,10 @@ marp: false
 
 ## D
 
+**Data binning**: El agrupamiento de datos, también llamado agrupamiento discreto de datos o agrupamiento de datos, es una técnica de preprocesamiento de datos utilizada para reducir los efectos de errores de observación menores. [M3 T1]
+
+**Data cleaning**: La limpieza de datos es el acto de descubrimiento y corrección o eliminación de registros de datos erróneos de una tabla o base de datos. El proceso de limpieza de datos permite identificar datos incompletos, incorrectos, inexactos, no pertinentes, etc. y luego sustituir, modificar o eliminar estos datos sucios. [M3 T1]
+
 **Data lake**: almacén de información en el que se almacena la información en bruto. [M1 T2]
 
 **Data scientist**: experto en data science y cuyo trabajo consiste en extraer conocimiento a partir de datos. [M1 T2]
@@ -321,6 +325,8 @@ marp: false
 **Universal Serial Bus (USB o BUS)**:  bus de comunicaciones que sigue un estándar que define los cables, conectores y protocolos usados en un bus para conectar, comunicar y proveer de alimentación eléctrica entre computadoras, periféricos y dispositivos electrónicos. [M2 T1]
 
 ## V
+
+**Valores Nulos**: Un valor nulo significa que es un valor desconocido, indefinido o no inicializado. [M3 T1]
 
 **Variable global**: variable que se define fuera del cuerpo de cualquier función y que se puede usar en cualquier parte de un programa [M2 T3]
 
