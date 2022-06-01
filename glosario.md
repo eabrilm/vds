@@ -250,6 +250,8 @@ marp: false
 
 ## R
 
+**Radián**: El radián mide el ángulo presentado como central a una circunferencia y su medida equivale a la cantidad de veces que la longitud del radio traza un arco determinado en la circunferencia. [M2 T3]
+
 **RAM**: memoria principal de un dispositivo donde se almacenan de forma temporal los datos de los programas que estás utilizando en este momento. [M2 U1]
 
 **Rama**: copia puntual de los archivos que componen un repositorio de código que se crea para introducir modificaciones de código. [M1 T3]
