@@ -26,6 +26,8 @@ marp: false
 
 **Analítica descriptiva**: procesamiento de datos en el que se crea un resumen del histórico de datos. [M1 T2]
 
+**Análisis exploratorio**: El análisis exploratorio hace referencia al tipo de análisis definido por John W. Tukey, que consiste en el tratamiento estadístico de los datos al que se someten las muestras recogidas durante un proceso de investigación. [M3 T1]
+
 **Analítica predictiva**: agrupación de técnicas que analiza el histórico de datos disponible para hacer predicciones. [M1 T2]
 
 **Analítica prescriptiva**: es el análisis de datos junto con la recomendación de acciones y el impacto que pueden llegar a tener. [M1 T2]
@@ -88,17 +90,23 @@ marp: false
 
 **Consola del sistema**: es un programa que recibe todo aquello que se escribe en la terminal y se encarga de convertirlo en instrucciones que el sistema operativo pueda entender y ejecutar. [M1 T3]
 
+**Correlación**: Correspondencia o relación recíproca entre dos o más acciones o fenómenos o variables. [M3 T1]
+
 **Cursor**: objeto que se crea al acceder a un recurso y que apunta a la siguiente posición de memoria a leer [M2 T3]
 
 **Customer Relationship Management (CRM)**: es la herramienta que se encarga de gestionar los clientes de una empresa. [M1 T2]
 
 ## D
 
+**Dataframe**: Es una estructura de datos con dos dimensiones en la cual se puede  guardar datos de distintos tipos (como caracteres, enteros, valores de punto flotante, factores y más) en columnas. [M3 T1]
+
 **Data binning**: El agrupamiento de datos, también llamado agrupamiento discreto de datos o agrupamiento de datos, es una técnica de preprocesamiento de datos utilizada para reducir los efectos de errores de observación menores. [M3 T1]
 
 **Data cleaning**: La limpieza de datos es el acto de descubrimiento y corrección o eliminación de registros de datos erróneos de una tabla o base de datos. El proceso de limpieza de datos permite identificar datos incompletos, incorrectos, inexactos, no pertinentes, etc. y luego sustituir, modificar o eliminar estos datos sucios. [M3 T1]
 
 **Data lake**: almacén de información en el que se almacena la información en bruto. [M1 T2]
+
+**Data Management**: El Data Management o gestión de datos es una disciplina de la gestión, la cual hace referencia a los datos. Su proceso consiste en recoger, verificar, almacenar, analizar, proteger y procesar datos. [M3 T1]
 
 **Data scientist**: experto en data science y cuyo trabajo consiste en extraer conocimiento a partir de datos. [M1 T2]
 
@@ -145,6 +153,8 @@ marp: false
 **Global Positioning System (GPS)**: sistema que permite posicionar un elemento sobre la superficie terrestre. [M1 T1] 
 
 **Global System for Mobile communication (GSM)**: sistema global de comunicaciones móviles que define el estándar de la telefonía móvil de segunda generación. [M1 T1] 
+
+**Gobierno del dato**: El gobierno de datos consiste en la capacidad de una organización para gestionar el conocimiento que tiene sobre su información. [M3 T1]
 
 ## H
 
@@ -194,6 +204,8 @@ marp: false
 
 **Lenguaje máquina**: Sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
 
+**Linaje del dato**: El linaje de los datos es el historial de los datos, incluido el lugar donde los datos han viajado a lo largo de su existencia dentro de una organización. [M3 T1]
+
 **LISP**: familia de lenguajes de programación basada en el procesamiento de listas [M2 T3]
 
 ## M
@@ -201,6 +213,8 @@ marp: false
 **Machine to Machine (M2M)**: intercambio de información entre máquinas. [M1 T2]
 
 **Matriz identidad**: matriz cuadrada (número de filas igual al número de columna) con todos los elementos igual a cero salvo la diagonal principal formada por unos y que es un elemento neutro en el producto de matrices [M2 T3]
+
+**MDM**: Es un método que permite a una organización relacionar todos sus datos críticos con un solo archivo llamado archivo maestro, de forma que se obtiene un punto de referencia común para los datos más importantes, simplificando además el intercambio de datos entre personal y departamentos. [M3 T1]
 
 **Media**: valor promedio de un conjunto de datos numéricos [M2 T2]
 
@@ -211,6 +225,10 @@ marp: false
 **Método**: función de la que dispone un objeto y que se puede invocar [M2 T3]
 
 **Microservicios**: aproximación al desarrollo de software que se basa en construir pequeños servicios que se ejecutan a lo largo de un proceso. [M1 T2]
+
+**Missing values**: Este es el término que indica que una información no está completa del todo o carece de toda la información para llamarla “completa”. [M3 T1]
+
+**MPV o MVP**: Es la versión mínima de un nuevo producto, e incluye las características básicas para satisfacer las necesidades de los clientes. [M3 T1]
 
 ## N
 
@@ -293,6 +311,8 @@ marp: false
 **Software as a Service (SaaS)**: modelo de distribución de software que se ofrece a través de Internet. [M1 T1]
 
 **Stack tecnológico**: Es el listado de todos los servicios tecnológicos utilizados para construir y ejecutar una sola aplicación.[M2 T3]
+
+**Stopwords**: Estas palabras no tienen un significado por sí solas, sino que modifican o acompañan a otras, este grupo suele estar conformado por artículos, pronombres, preposiciones, adverbios e incluso algunos verbos. En el procesamiento de datos en lenguaje natural son filtradas antes o después del proceso en sí, no considerándolos por su nulo significado, en el caso de los buscadores como Google no lo consideran al momento de posicionar, pero si al momento de mostrar los resultados de búsqueda. [M3 T1]
 
 **String**: secuencia de caracteres usado para representar texto [M2 T3]
 
