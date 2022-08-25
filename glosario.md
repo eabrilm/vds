@@ -6,9 +6,15 @@ marp: false
 
 ## 0 - 9
 
+**1FN**: Técnica de Normalización de modelos relacionales Primera Forma Normal. [M3 T2]
+
 **1G**: abreviatura para la primera generación de telefonía móvil. [M1 T1]
 
+**2FN**:Técnica de Normalización de modelos relacionales Segunda Forma Normal.[M3 T2]
+
 **2G**: abreviatura para la segunda generación de dispositivos y redes de telefonía móvil. [M1 T1]
+
+**3FN**: Técnica de Normalización de modelos relacionales Tercera Forma Normal. [M3 T2]
 
 **3G**: abreviatura que identifica la tercera generación de telefonía móvil. [M1 T1]
 
@@ -16,9 +22,15 @@ marp: false
 
 **5G**: abreviatura que se refiere a la nueva generación de telefonía móvil. [M1 T1]
 
+**6FN**:Técnica de Normalización de modelos relacionales Sexta Forma Normal. [M3 T2]
+
 ## A
 
+**ACID**: En concreto, ACID es un acrónimo en inglés de Atomicity, Consistency, Isolation and Durability: Atomicidad, Consistencia, Aislamiento y Durabilidad. [M3 T2]
+
 **Administrador de contextos (context manager)**: estructura de programación que se encarga de gestionar los recursos de manera automática [M2 T3]
+
+**Algebra relacional**: Define un lenguaje de manipulación de datos ya que son un conjunto de operaciones simples sobre tablas relacionales, a partir de las cuales se definen operaciones más complejas. [M3 T2]
 
 **Algoritmo**: conjunto ordenado de operaciones que permite hacer cálculos y hallar la solución de un determinado tipo de problemas. [M2 T3]
 
@@ -34,6 +46,8 @@ marp: false
 
 **AND lógico**: conector lógico cuyo valor de la verdad resulta cierto solo si ambas proposiciones de entrada son ciertas, y en falso de cualquier otra forma. [M2 T1]
 
+**ANSI**: El Instituto Nacional Estadounidense de Estándares, más conocido como ANSI (por sus siglas en inglés: American National Standards Institute), es una organización sin fines de lucro que supervisa el desarrollo de estándares para productos, servicios, procesos y sistemas en los Estados Unidos. [M3 T2]
+
 **API**: interfaz que define la comunicación entre aplicaciones a partir de la definición de subrutinas, funciones y procedimientos. [M1 T2]
 
 **Arduino**: plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. [M1 T3]
@@ -44,15 +58,25 @@ marp: false
 
 **Asistente virtual**: software que ayuda a usuarios en múltiples entornos a partir de respuestas automatizadas. [M1 T1]
 
+**Atomicidad**: Principio que garantiza que un cambio debe completarse en su totalidad o no modificar nada en absoluto.[M3 T2]
+
 **Atributo**: característica o propiedad de un objeto [M2 T3]
 
 **Autopilot**: sistema de ayuda a la conducción de nivel 2 que viene integrado en los coches de la marca Tesla. [M1 T2]
 
+**Avro**: Apache Avro es un sistema de compresión diseñado por Apache para el proyecto Hadoop para la serialización de datos. [M3 T2]
+
 ## B
+
+**Batch**: Proceso que se ejecuta por lotes, sin tener que procesarse en tiempo real. [M3 T2]
 
 **Base de datos relacional (RDBMS)**: base de datos que cumple el modelo relacional. [M1 T2]
 
 **Big Data**: concepto que se usa para referir a un gran volumen de datos y al paradigma asociado. [M1 T1]
+
+**BSON**: Es un formato de intercambio de datos usado principalmente para su almacenamiento y transferencia en la base de datos MongoDB. Es una representación binaria de estructuras de datos y mapas. El nombre BSON está basado en el término JSON y significa Binary JSON. [M3 T2]
+
+**Business Intelligence (BI)**: El término inteligencia empresarial se refiere al uso de datos en una empresa para facilitar la toma de decisiones. Abarca la comprensión del funcionamiento actual de la empresa, bien como la anticipación de acontecimientos futuros, con el objetivo de ofrecer conocimientos para respaldar las decisiones empresariales.[M3 T2]
 
 **Byte**: unidad de información de base utilizada en computación y en telecomunicaciones, y que resulta equivalente a un conjunto ordenado de ocho bits. [M2 T1]
 
@@ -60,15 +84,23 @@ marp: false
 
 **Case sensitive**: expresión usada en informática que se aplica a los textos en los que tiene alguna relevancia escribir un carácter en mayúsculas o minúsculas. [M2 T2]
 
+**Camino**: El término camino, cuando hablamos de grafos, se trata de una sucesión finita en la que vamos alterando vértices de un grafo con las aristas que lo unen. Camino es por tanto la secuencia arcos dónde el extremo final de uno coincide con el inicio del siguiente. [M3 T2]
+
 **Casting**: consiste en transformar una variable de un tipo a otro [M2 T3]
 
 **Chatbot**: software que usa mensajes predefinidos en una conversación entre un interlocutor humano y una máquina. [M1 T1]
 
 **Chief Executive Officer (CEO)**: director ejecutivo de una empresa. [M1 T2]
 
+**Clave externa o foránea**: La clave foránea identifica una columna o grupo de columnas en una tabla (tabla hija o referendo) que se refiere a una columna o grupo de columnas en otra tabla (tabla maestra o referenciada). [M3 T2]
+
+**Clave primaria**: Se llama clave primaria o llave primaria o clave principal a un campo o a una combinación de campos que identifica de forma única a cada fila de una tabla. [M3 T2]
+
 **Cloud**: término que hace referencia a Internet. [M1 T2]
 
 **Cloud computing**: modo de computación en el que se ejecutan las cosas sobre Internet. [M1 T2]
+
+**Cobol**: El lenguaje de programación COBOL (acrónimo de COmmon Business-Oriented Language, Lenguaje Común Orientado a Negocios) fue creado en el año 1959 con el objetivo de crear un lenguaje de programación universal que pudiera ser usado en cualquier ordenador y que estuviera orientado principalmente a los negocios, es decir, a la llamada informática de gestión. [M3 T2]
 
 **Código binario**: sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
 
@@ -77,6 +109,8 @@ marp: false
 **Código fuente**: es un archivo o conjunto de archivos, que contienen instrucciones concretas, escritas en un lenguaje de programación, que posteriormente compilan uno o varios programas.[M1 T3]
 
 **Código máquina**: conjunto de instrucciones interpretable por un circuito microprogramable. [M2 T1]
+
+**Coherencia**: Principio que garantiza que los usuarios que realizan consultas en una misma base de datos SIEMPRE obtengan los mismos datos. [M3 T2]
 
 **Colab**: producto de Google Research que permite a los usuarios escribir y ejecutar código en Python en un navegador [M2 T3]
 
@@ -92,6 +126,10 @@ marp: false
 
 **Correlación**: Correspondencia o relación recíproca entre dos o más acciones o fenómenos o variables. [M3 T1]
 
+**CPU**: La unidad central de procesamiento CPU o procesador es el hardware dentro de un computador, teléfonos inteligentes y otros dispositivos. Su trabajo es interpretar las instrucciones de un programa informático. [M3 T2]
+
+**CSV**: Las siglas CSV vienen del inglés "Comma Separated Values" y significan valores separados por comas. Dicho esto, un archivo CSV es cualquier archivo de texto en el cual los caracteres están separados por comas, haciendo una especie de tabla en filas y columnas. [M3 T2]
+
 **Cursor**: objeto que se crea al acceder a un recurso y que apunta a la siguiente posición de memoria a leer [M2 T3]
 
 **Customer Relationship Management (CRM)**: es la herramienta que se encarga de gestionar los clientes de una empresa. [M1 T2]
@@ -104,9 +142,13 @@ marp: false
 
 **Data cleaning**: La limpieza de datos es el acto de descubrimiento y corrección o eliminación de registros de datos erróneos de una tabla o base de datos. El proceso de limpieza de datos permite identificar datos incompletos, incorrectos, inexactos, no pertinentes, etc. y luego sustituir, modificar o eliminar estos datos sucios. [M3 T1]
 
+**Data drive**: Un enfoque data-driven permite que las empresas examinen y organicen sus datos con el fin de atender mejor a sus clientes y consumidores [M3 T2]
+
 **Data lake**: almacén de información en el que se almacena la información en bruto. [M1 T2]
 
 **Data Management**: El Data Management o gestión de datos es una disciplina de la gestión, la cual hace referencia a los datos. Su proceso consiste en recoger, verificar, almacenar, analizar, proteger y procesar datos. [M3 T1]
+
+**Data profiling**: El Data profiling o perfilado de datos es un proceso que consiste en revisar las fuentes de datos, entender bien su estructura y ver el potencial que tiene para sus usos en los siguientes procesos. [M3 T2]
 
 **Data scientist**: experto en data science y cuyo trabajo consiste en extraer conocimiento a partir de datos. [M1 T2]
 
@@ -118,13 +160,19 @@ marp: false
 
 **Deepfake**: técnica de edición de vídeo basada en aprendizaje profundo para crear un vídeo falso que emula gestos faciales. [M1 T2]
 
+**Demonio**: Es un tipo especial de programa (también llamado programa residente o daemon) que se ejecuta en segundo plano, en vez de ser controlado directamente por el usuario. [M3 T2]
+
 **DevOps**: prácticas que agrupan el desarrollo de software y las operaciones de TI. [M1 T2]
 
 **Desviación estándar**: cuantificación de la variación o la dispersión de un conjunto de datos numéricos [M2 T2]
 
 **Diagrama**: Conjunto de pasos lógicos escritos en un lenguaje de programación que permiten llevar a cabo una tarea. [M2 T3]
 
+**Diferencia**: En teoría de conjuntos, la diferencia de dos conjuntos es una operación que da como resultado otro conjunto con los elementos del primer conjunto sin los elementos del segundo conjunto. [M3 T2]
+
 **DIKW**: acrónimo de data, information, knowledge y wisdom que se usa para referirse a un modelo de conocimieto. [M1 T2]
+
+**DKFN**: Técnica de Normalización de modelos relacionales Forma Normal Dominio-Clave. [M3 T2]
 
 ## E
 
@@ -132,7 +180,15 @@ marp: false
 
 **Entorno desarrollo integrado (IDE)**: también conocido como entorno de desarrollo interactivo y consiste en una aplicación que proporciona un servicio integral al desarrollador de código [M2 T3]
 
+**E/S**: Abreviatura de Entrada/Salida. Cuando estamos hablando de discos como periféricos, se refiere a la acción de escribir o leer datos. [M3 T2]
+
+**Escalado horizontal**: se refiere a la práctica de agregar más máquinas a una pila existente para extender la carga y permitir un mayor tráfico y capacidad de procesamiento. [M3 T2]
+
+**Escalado vertical**: Se refiere a la actualización del hardware del servidor existente, generalmente, añadiendo más RAM o CPU. [M3 T2]
+
 **Escapar**: consiste en añadir un carácter de escape antes de un carácter especial para que sea tenido en cuenta [M2 T3]
+
+**ETL**: Viene de las siglas en inglés Extract, Transform & Load. Son procesos para extraer, transformar y cargar datos. [M3 T2]
 
 ## F
 
@@ -150,11 +206,15 @@ marp: false
 
 **Gadget**: pequeña aplicación cuyo objetivo es proporcionar ayuda y fácil acceso a las principales funcionalidades. También conocida como widget. [M1 T1] 
 
+**Gigabyte (GB)**: Unidad de almacenamiento de información que equivale a 1 000 000 000 -mil millones- de bytes. [M3 T2]
+
 **Global Positioning System (GPS)**: sistema que permite posicionar un elemento sobre la superficie terrestre. [M1 T1] 
 
 **Global System for Mobile communication (GSM)**: sistema global de comunicaciones móviles que define el estándar de la telefonía móvil de segunda generación. [M1 T1] 
 
 **Gobierno del dato**: El gobierno de datos consiste en la capacidad de una organización para gestionar el conocimiento que tiene sobre su información. [M3 T1]
+
+**GPL**: Es una licencia de derecho de autor muy usada en el mundo del software libre y código abierto, y garantiza a los usuarios finales la libertad de usar, estudiar, compartir y modificar el software. [M3 T2]
 
 ## H
 
@@ -182,6 +242,8 @@ marp: false
 
 **Infraestructura como servicio (IaaS)**: modelo de contratación de servicios en la nube en el que las empresas contratan los elementos necesarios de la infraestructura (almacenamiento, capacidad de cálculo...). [M1 T2]
 
+**Ingestar**: Término muy utilizado en las plataformas de datos proveniente del verbo en Inglés “Ingest”. Es un sinónimo de introducir o cargar datos. [M3 T2]
+
 **In-house**: modalidad de trabajo que hace referencia a recursos propios de la empresa. [M1 T2]
 
 **Inteligencia Artificial (IA)**: sistemas o máquinas que imitan la inteligencia humana. [M1 T1]
@@ -194,9 +256,15 @@ marp: false
 
 **JavaScript Object Notation (JSON)**: formato de texto simple para el intercambio de datos con notación de JavaScript. [M1 T2]
 
+**Join**: Operador que permite relacionar datos de diferentes tablas o relaciones. [M3 T2]
+
+**Joins**: La sentencia JOIN de SQL permite combinar registros de una o más tablas en una base de datos. [M3 T2]
+
 ## K
 
 **Key Performance Indicator (KPI)**: indicador de rendimiento que se utiliza para determinar el grado de consecución de un objetivo. [M1 T2]
+
+**Kilobyte (KB)**: Unidad de almacenamiento de información que equivale a 103 (mil) bytes. [M3 T2]
 
 ## L
 
@@ -204,9 +272,13 @@ marp: false
 
 **Lenguaje máquina**: Sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
 
+**Lexema**: Es la parte de la palabra que no varía y que contiene su significado. [M3 T2]
+
 **Linaje del dato**: El linaje de los datos es el historial de los datos, incluido el lugar donde los datos han viajado a lo largo de su existencia dentro de una organización. [M3 T1]
 
 **LISP**: familia de lenguajes de programación basada en el procesamiento de listas [M2 T3]
+
+**Log**: En informática y computación, se usa el término registro, log o historial de log para referirse a la grabación secuencial en un archivo o en una base de datos de todos los acontecimientos que afectan a un proceso particular. [M3 T2]
 
 ## M
 
@@ -224,6 +296,10 @@ marp: false
 
 **Método**: función de la que dispone un objeto y que se puede invocar [M2 T3]
 
+**Metodología bottom-up**: En el diseño bottom-up las partes individuales se diseñan con detalle y luego se enlazan para formar componentes más grandes, que a su vez se enlazan hasta que se forma el sistema completo. [M3 T2]
+
+**Metodología top-down**: En el modelo top-down se formula un resumen del sistema, sin especificar detalles. [M3 T2]
+
 **Microservicios**: aproximación al desarrollo de software que se basa en construir pequeños servicios que se ejecutan a lo largo de un proceso. [M1 T2]
 
 **Missing values**: Este es el término que indica que una información no está completa del todo o carece de toda la información para llamarla “completa”. [M3 T1]
@@ -232,17 +308,33 @@ marp: false
 
 ## N
 
+**NaN**: NaN, proviene del acrónimo en inglés «Not a Number» (en español: no es un número). Este acrónimo se usa generalmente en algunos lenguajes de programación para expresar un resultado imposible de calcular, como el caso de las raíces negativas, indeterminaciones, etc., retornando NaN como resultado de la operación. [M3 T2]
+
 **Negación lógica**: función de verdad que cambia su valor de verdadero a falso y viceversa. [M2 T1]
 
+**None**: None o null como se conoce en la mayoría de lenguajes de programación, podríamos decir que su traducción sería nulo y significa que el valor es desconocido. [M3 T2]
+
 **Nube**: término que hace referencia a Internet. [M1 T2]
+
+**Null**: None o null como se conoce en la mayoría de lenguajes de programación, podríamos decir que su traducción sería nulo y significa que el valor es desconocido. [M3 T2]
 
 ## Ñ
 
 ## O
 
+**ODBMS**: En una base de datos orientada a objetos, la información se representa mediante objetos como los presentes en la programación orientada a objetos. [M3 T2]
+
 **On-premise**: software que se instala de forma local en los sistemas de una organización. [M1 T2]
 
 **Open Access**: es un movimiento que promueve el acceso libre y gratuito a la literatura científica, fomentando su libre disponibilidad en Internet y permitiendo a cualquier usuario su lectura, descarga, copia, impresión, distribución o cualquier otro uso legal de la misma. [M1 T3]
+
+**Open source**: El software de código abierto es el software cuyo código fuente y otros derechos que normalmente son exclusivos para quienes poseen los derechos de autor, son publicados bajo una licencia de código abierto o forman parte del dominio público.
+
+**Operación CRUD**: En informática, CRUD es el acrónimo de "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos. [M3 T2]
+
+**Operador binario**: Un operador binario es un operador que opera en dos operandos y los manipula para devolver un resultado. [M3 T2]
+
+**Operador unario**: Los operadores unarios son operadores aritméticos que realizan una acción sobre un solo operando. [M3 T2]
 
 **OR lógico**: conector lógico, cuyo valor de la verdad resulta falso solo si ambas proposiciones de entrada son falsas, y en cierto de cualquier otra forma. [M2 T1]
 
@@ -250,11 +342,19 @@ marp: false
 
 **Parámetro posicional**: es aquel parámetro que se le pasa a una función con una posición determinada [M2 T3]
 
+**Parquet**: Apache Parquet es un formato de archivo en columnas que proporciona optimizaciones para acelerar las consultas; es un formato de archivo mucho más eficaz que CSV o JSON. [M3 T2]
+
 **Paso por referencia**: una función recibe un puntero que apunta a la dirección en memoria de dicho variable [M2 T3]
 
 **Paso por valor**: una función recibe un parámetro que es una copia del valor [M2 T3]
 
+**Pipeline**: Consiste en una cadena de procesos que están conectados entre sí, de forma que la salida de cada elemento es la entrada del siguiente. Con esto se consigue sincronizar procesos y permitir que se comuniquen entre sí, pudiendo orquestar así un conjunto de procesos que buscan un resultado final conjunto. [M3 T2]
+
 **Plataforma como servicio (PaaS)**: modelo de contratación de servicios en la nube en el que las empresas construyen servicios sobre determinadas plataformas. [M1 T2]
+
+**Procesado de lenguaje Natural (NLP)**: campo de la inteligencia artificial que se centra en el lenguaje humano. [M1 T1]
+
+**Producto cartesiano**: El producto cartesiano se emplea en el ámbito de la matemática, más precisamente en el campo del álgebra. El producto cartesiano revela una relación de orden entre dos conjuntos, constituyéndose como un tercer conjunto. [M3 T2]
 
 **Programa**: conjunto de pasos lógicos escritos en un lenguaje de programación que permiten llevar a cabo una tarea [M2 T3]
 
@@ -262,7 +362,9 @@ marp: false
 
 **Prompt**: símbolo o texto que se encuentra antes del cursor en la consola del sistema. [M1 T3]
 
-**Procesado de lenguaje Natural (NLP)**: campo de la inteligencia artificial que se centra en el lenguaje humano. [M1 T1]
+**Proyectar**: Término del álgebra relacional, utilizado en bases de datos para referirnos a la selección de aquellos campos o columnas que queremos visualizar y obtener de una consulta. Realmente lo que estamos haciendo es crear una nueva relación (tabla) quedándonos solamente los campos seleccionados. [M3 T2]
+
+**Pub/Sub**: El patrón Pub/Sub (publicación-subscripción) es un patrón de mensajería de Ruby on Rails donde los remitentes de mensajes (editores) no programan los mensajes para que se envíen directamente a receptores específicos (suscriptores). En cambio, el programador "publica" mensajes (eventos), sin ningún conocimiento de los suscriptores que pueda haber. [M3 T2]
 
 ## Q
 
@@ -273,6 +375,8 @@ marp: false
 **RAM**: memoria principal de un dispositivo donde se almacenan de forma temporal los datos de los programas que estás utilizando en este momento. [M2 U1]
 
 **Rama**: copia puntual de los archivos que componen un repositorio de código que se crea para introducir modificaciones de código. [M1 T3]
+
+**Raw**: Quiere decir «crudo» en inglés. Por lo tanto, se trata de un formato con el cual conservamos los datos tal cual están en orígen sin alterarlos. [M3 T2]
 
 **Reconocimiento facial**: aplicación informática que identifica individuos a partir de sus rasgos faciales. [M1 T2] 
 
@@ -287,6 +391,10 @@ marp: false
 **Roadmap**: plan de programación o hoja de ruta que define el desarrollo del software con objetivos corto, medio y largo plazo; así como los hitos más relevantes. [M1 T2] 
 
 ## S
+
+**Sandbox**: Entorno aislado o de pruebas que nos permite probar o practicar sin alterar sistemas productivos. [M3 T2]
+
+**SCD**: El término dimensiones lentamente cambiantes (SCD, por sus siglas en inglés: Slowly Changing Dimensions) hace referencia a que los datos de las dimensiones van cambiando poco a poco a lo largo del tiempo. No son incrementales como los "hechos". Cada día hay nuevas ventas o pedidos, sin embargo la categorización de los productos o clientes va cambiando poco a poco a lo largo del tiempo. [M3 T2]
 
 **Script**: fichero que contiene unas instrucciones escritas en código que sirven para ejecutar diversas funciones dentro de un programa. [M1 T3]
 
@@ -306,9 +414,13 @@ marp: false
 
 **Smartphone**: teléfono móvil con un sistema operativo que le permite funcionar como un pequeño ordenador. [M1 T1]
 
+**Snapshot**: En informática, una copia instantánea de volumen o snapshot es una instantánea del estado de un sistema en un momento determinado. [M3 T2]
+
 **Software**: programas y rutinas que permiten a los sistemas informáticos realizar tareas. [M1 T2]
 
 **Software as a Service (SaaS)**: modelo de distribución de software que se ofrece a través de Internet. [M1 T1]
+
+**SQL**: SQL (por sus siglas en inglés Structured Query Language), es un lenguaje  diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales. [M3 T2]
 
 **Stack tecnológico**: Es el listado de todos los servicios tecnológicos utilizados para construir y ejecutar una sola aplicación.[M2 T3]
 
@@ -322,6 +434,16 @@ marp: false
 
 **Tabla de verdad**: tabla que recoge el valor de salida para cada combinación de valores de entrada. [M2 T1]
 
+**Tabla hash**: Las tablas hash son estructuras de datos que se utilizan para almacenar un número elevado de datos sobre los que se necesitan operaciones de búsqueda e inserción muy eficientes. [M3 T2]
+
+**Técnias de normalización**: Es una técnica de diseño de base de datos que organiza las tablas de una manera que reduce la redundancia y la dependencia de los datos. Divide las tablas más grandes en tablas más pequeñas y las vincula usando relaciones. [M3 T2]
+
+**Tecnologías de la Información y de la Comunicación (TIC)**: recursos y herramientas que se utilizan para el procesado, administración y distribución de la información. [M1 T1]
+
+**Teorema de CAP**: En Ciencias de la computación, el teorema CAP, también llamado Conjetura de Brewer, enuncia que es imposible para un sistema de cómputo distribuido garantizar simultáneamente las siguientes características: Consistencia, Disponibilidad y Tolerancia al particionado. [M3 T2]
+
+**Teoría de conjuntos**: La teoría de conjuntos es una rama de las matemáticas y de la lógica, que estudia las características de los conjuntos y las operaciones que pueden efectuarse entre ellos, cómo por ejemplo los atributos y las relaciones que se pueden establecer entre ellos. [M3 T2]
+
 **Tiempo UNIX**:  sistema para la descripción de instantes de tiempo: se define como la cantidad de segundos transcurridos desde la medianoche UTC del 1 de enero de 1970, sin contar segundos intercalares.[M2 T1]
 
 **Transistor**: dispositivo electrónico semiconductor utilizado para entregar una señal de salida en respuesta a una señal de entrada. Dicha señal de salida puede ser amplificada, bloqueada o rectificada. [M2 T1]
@@ -330,11 +452,11 @@ marp: false
 
 **Transport Layer Security (TSL)**: protocolo criptográfico que proporciona comunicaciones seguras por una red. [M1 T2]
 
-**Tecnologías de la Información y de la Comunicación (TIC)**: recursos y herramientas que se utilizan para el procesado, administración y distribución de la información. [M1 T1]
-
-**Voice over IP (VoIP)**: tecnología que permite enviar y recibir llamadas telefónicas por Internet. [M1 T1]
+**Trigger**: Un trigger o disparador es un objeto que se asocia con tablas y se almacena en la base de datos. Su nombre viene del comportamiento que presentan en su funcionamiento, ya que se ejecutan cuando sucede algún evento sobre las tablas a las que se encuentra asociado. [M3 T2]
 
 ## U
+
+**Unidad de estado sólido (SSD)**: Es un tipo de dispositivo de almacenamiento de datos que utiliza memoria no volátil, como la memoria flash, para almacenar datos, en lugar de los platos o discos magnéticos de las unidades de discos duros (HDD) convencionales. [M3 T2]
 
 **Unidad de Procesamiento Gráfico o Graphics Processing Unit (GPU)**: coprocesador dedicado al procesamiento de gráficos u operaciones de coma flotante, para aligerar la carga de trabajo del procesador central en aplicaciones de una alta carga computacional. [M1 T3]
 
@@ -355,6 +477,8 @@ marp: false
 **Variable local**: variable cuyo uso está restringido al ámbito de la función en la que se ha declarado [M2 T3]
 
 **Varianza**: medida de dispersión definida como la esperanza del cuadrado de la desviación de dicha variable respecto a su media [M2 T2]
+
+**Voice over IP (VoIP)**: tecnología que permite enviar y recibir llamadas telefónicas por Internet. [M1 T1]
 
 ## W
 
