@@ -30,6 +30,8 @@ marp: false
 
 **Administrador de contextos (context manager)**: estructura de programación que se encarga de gestionar los recursos de manera automática [M2 T3]
 
+**Adyacente**: Que está muy próximo o unido a otra cosa. [M4 T2]
+
 **Algebra relacional**: Define un lenguaje de manipulación de datos ya que son un conjunto de operaciones simples sobre tablas relacionales, a partir de las cuales se definen operaciones más complejas. [M3 T2]
 
 **Algoritmo**: conjunto ordenado de operaciones que permite hacer cálculos y hallar la solución de un determinado tipo de problemas. [M2 T3]
@@ -52,15 +54,23 @@ marp: false
 
 **Arduino**: plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. [M1 T3]
 
+**Armonía**: Equilibrio, proporción y correspondencia adecuada entre las diferentes cosas de un conjunto. [M4 T2]
+
 **Array**: Zona de almacenamiento contiguo que contiene una serie de elementos del mismo tipo, los elementos de la matriz. [M2 T2]
 
 **ASCII**: estándar para la representación de caracteres en cualquier dispositivo electrónico, haciendo referencia a una codificación fija que asigna a caracteres imprimibles como letras, números y signos de puntuación y a caracteres de control no imprimibles un código concreto, que al pasar por el dispositivo lo traduce y muestra el carácter deseado. [M2 T1]
+
+**Asimetría estadística**: En teoría de probabilidad y estadística, la asimetría es una medida de la asimetría de la distribución de probabilidad de una variable aleatoria de valor real con respecto a su media. [M4 T1]
 
 **Asistente virtual**: software que ayuda a usuarios en múltiples entornos a partir de respuestas automatizadas. [M1 T1]
 
 **Atomicidad**: Principio que garantiza que un cambio debe completarse en su totalidad o no modificar nada en absoluto.[M3 T2]
 
 **Atributo**: característica o propiedad de un objeto [M2 T3]
+
+**Atributo preatentiv**: Los Atributos preatentivos de visualización son aquellos que se procesan en nuestra memoria sensorial sin nuestro pensamiento consciente.  [M4 T2]
+
+**Audencia**: Es el público o destinatario al que va dirigido nuestra visualización de datos. [M4 T2]
 
 **Autopilot**: sistema de ayuda a la conducción de nivel 2 que viene integrado en los coches de la marca Tesla. [M1 T2]
 
@@ -74,7 +84,11 @@ marp: false
 
 **Big Data**: concepto que se usa para referir a un gran volumen de datos y al paradigma asociado. [M1 T1]
 
+**Binomio**: Tener dos resultados [M4 T1]
+
 **BSON**: Es un formato de intercambio de datos usado principalmente para su almacenamiento y transferencia en la base de datos MongoDB. Es una representación binaria de estructuras de datos y mapas. El nombre BSON está basado en el término JSON y significa Binary JSON. [M3 T2]
+
+**Bootstrap**: Una muestra tomada con reemplazo de un conjunto de datos observados. [M4 T1]
 
 **Business Intelligence (BI)**: El término inteligencia empresarial se refiere al uso de datos en una empresa para facilitar la toma de decisiones. Abarca la comprensión del funcionamiento actual de la empresa, bien como la anticipación de acontecimientos futuros, con el objetivo de ofrecer conocimientos para respaldar las decisiones empresariales.[M3 T2]
 
@@ -86,7 +100,13 @@ marp: false
 
 **Camino**: El término camino, cuando hablamos de grafos, se trata de una sucesión finita en la que vamos alterando vértices de un grafo con las aristas que lo unen. Camino es por tanto la secuencia arcos dónde el extremo final de uno coincide con el inicio del siguiente. [M3 T2]
 
+**Capacidad interactica**: Es el proceso de comunicación entre humanos y ordenadores. [M4 T2]
+
+**Capacidad visual**: Es la agudeza visual del ojo para reconocer la forma de los objetos e identificar las imágenes que llegan a través del nervio óptico a nuestro cerebro. [M4 T2]
+
 **Casting**: consiste en transformar una variable de un tipo a otro [M2 T3]
+
+**Categoría**: Clase que resulta de una clasificación de personas o cosas según un criterio o jerarquía. [M4 T2]
 
 **Chatbot**: software que usa mensajes predefinidos en una conversación entre un interlocutor humano y una máquina. [M1 T1]
 
@@ -102,6 +122,10 @@ marp: false
 
 **Cobol**: El lenguaje de programación COBOL (acrónimo de COmmon Business-Oriented Language, Lenguaje Común Orientado a Negocios) fue creado en el año 1959 con el objetivo de crear un lenguaje de programación universal que pudiera ser usado en cualquier ordenador y que estuviera orientado principalmente a los negocios, es decir, a la llamada informática de gestión. [M3 T2]
 
+**Códificación cultural**: Clasificación o distinción de los conceptos relacionados sobre el cuerpo de prácticas, expectativas y convenciones compartidas específicas de una cultura. [M4 T2]
+
+**Código abierto**: Software cuyo código fuente se ha puesto a disposición de todo el mundo de manera gratuita y otorgado con licencias que facilita su reutilización o adaptación a contextos diferentes. [M4 T2]
+
 **Código binario**: sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
 
 **Código ensamblador**: implementa una representación simbólica de los códigos de máquina binarios para programar una arquitectura concreta de procesador y constituye la representación más directa del código máquina. [M2 T1]
@@ -112,9 +136,15 @@ marp: false
 
 **Coherencia**: Principio que garantiza que los usuarios que realizan consultas en una misma base de datos SIEMPRE obtengan los mismos datos. [M3 T2]
 
+**Coherencia visual**: Se trata de mantener un mismo estilo gráfico a lo largo de nuestras visualizaciones. [M4 T2]
+
+**Cola**: La porción larga y angosta de una distribución de frecuencias, donde los valores relativamente extremos ocurren a baja frecuencia. [M4 T1]
+
 **Colab**: producto de Google Research que permite a los usuarios escribir y ejecutar código en Python en un navegador [M2 T3]
 
 **Column-wise**: Forma de acceder a los datos de una matriz por columnas [M2 T2]
+
+**ColumnDataSource**: Es el objeto donde se almacenan los datos de un gráfico Bokeh. [M4 T2]
 
 **Coma flotante**: Notación científica usada en los ordenadores con la cual se pueden representar números reales extremadamente grandes y pequeños de una manera muy eficiente y compacta, y con la que se pueden realizar operaciones aritméticas [M2 T2]
 
@@ -122,7 +152,13 @@ marp: false
 
 **Comentario por bloque**: Fragmento del programa que será ignorado por el compilador y por tanto no será ejecutado como código. La finalidad de un comentario en bloque es servir de guía o información para una mejor comprensión del programa [M2 T2]
 
+**Contexto visual**: Son las circunstancias y el medio en el cual se realiza la representación visual de los datos. [M4 T2]
+
+**Contraste**: Nos señala la diferencia entre los distintos tonos o colores. [M4 T2]
+
 **Consola del sistema**: es un programa que recibe todo aquello que se escribe en la terminal y se encarga de convertirlo en instrucciones que el sistema operativo pueda entender y ejecutar. [M1 T3]
+
+**Core**: Es el núcleo de un procesador, un procesador puede tener uno o varios núcleos, para realizar el procesamiento (cálculos) de forma paralela. [M4 T3]
 
 **Correlación**: Correspondencia o relación recíproca entre dos o más acciones o fenómenos o variables. [M3 T1]
 
@@ -131,6 +167,8 @@ marp: false
 **CSV**: Las siglas CSV vienen del inglés "Comma Separated Values" y significan valores separados por comas. Dicho esto, un archivo CSV es cualquier archivo de texto en el cual los caracteres están separados por comas, haciendo una especie de tabla en filas y columnas. [M3 T2]
 
 **Cursor**: objeto que se crea al acceder a un recurso y que apunta a la siguiente posición de memoria a leer [M2 T3]
+
+**Customer Journey**: También lo podemos encontrar como recorrido del cliente, especifica los diferentes estados por los que un cliente se relaciona con nosotros (nuestra compañía) a lo largo de su vida. [M4 T3]
 
 **Customer Relationship Management (CRM)**: es la herramienta que se encarga de gestionar los clientes de una empresa. [M1 T2]
 
@@ -162,6 +200,8 @@ marp: false
 
 **Demonio**: Es un tipo especial de programa (también llamado programa residente o daemon) que se ejecuta en segundo plano, en vez de ser controlado directamente por el usuario. [M3 T2]
 
+**Descenso por gradiente**: El descenso de gradiente es un algoritmo que estima numéricamente dónde una función genera sus valores más bajos. [M3 T1]
+
 **DevOps**: prácticas que agrupan el desarrollo de software y las operaciones de TI. [M1 T2]
 
 **Desviación estándar**: cuantificación de la variación o la dispersión de un conjunto de datos numéricos [M2 T2]
@@ -172,9 +212,17 @@ marp: false
 
 **DIKW**: acrónimo de data, information, knowledge y wisdom que se usa para referirse a un modelo de conocimieto. [M1 T2]
 
+**Distribución binomial**: distribución del número de éxitos en x intentos. [M4 T1]
+
+**Distribución exponencial**: la distribución de frecuencia del tiempo o la distancia de un evento al próximo evento. [M4 T1]
+
+**Distribución Poison**: la distribución de frecuencia del número de eventos en unidades de tiempo o espacio muestreadas. [M4 T1]
+
 **DKFN**: Técnica de Normalización de modelos relacionales Forma Normal Dominio-Clave. [M3 T2]
 
 ## E
+
+**Exploratory Data Analysis (EDA)**: Proceso que persigue explorar, descubrir e investigar anomalías, datos atípicos o patrones, mediante el uso de herramientas de visualización. [M4 T2]
 
 **Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 T1]
 
@@ -182,19 +230,35 @@ marp: false
 
 **E/S**: Abreviatura de Entrada/Salida. Cuando estamos hablando de discos como periféricos, se refiere a la acción de escribir o leer datos. [M3 T2]
 
+**Error estándar**. La variabilidad (desviación estándar) de una estadística de muestra sobre muchas muestras (que no debe confundirse con la desviación estándar, que en sí misma se refiere a la variabilidad de los valores de datos individuales). [M4 T1]
+
+**Escala**: Distintos modos de organizar, medir o asignar valores a los datos de nuestra visualización. [M4 T2]
+
 **Escalado horizontal**: se refiere a la práctica de agregar más máquinas a una pila existente para extender la carga y permitir un mayor tráfico y capacidad de procesamiento. [M3 T2]
 
 **Escalado vertical**: Se refiere a la actualización del hardware del servidor existente, generalmente, añadiendo más RAM o CPU. [M3 T2]
 
+**Escalar**: Números reales, constantes o complejos que sirven para describir un fenómeno físico (o de otro tipo) con magnitud. [M4 T1]
+
 **Escapar**: consiste en añadir un carácter de escape antes de un carácter especial para que sea tenido en cuenta [M2 T3]
 
+**Espacio negativo**: Espacio o hueco “vacío” que queda entre el objeto y/o el borde de la imagen. [M4 T2]
+
+**Espectro cromático**: Son todos los colores perceptibles en los que se puede descomponer la luz solar. [M4 T2]
+
 **ETL**: Viene de las siglas en inglés Extract, Transform & Load. Son procesos para extraer, transformar y cargar datos. [M3 T2]
+
+**Éxito**: El resultado de interés para un juicio. [M4 T1]
+
+**Experimento binomial**: Un juicio con dos resultados. [M4 T1]
 
 ## F
 
 **FAQ**: Abreviación para el concepto de preguntas frecuentes se refiere a una lista de preguntas y respuestas que surgen frecuentemente dentro de un determinado contexto y para un tema en particular [M2 T2]
 
 **Feed**: fuente de datos o canal de difusión de información. [M1 T2]
+
+**FinTech**: Procede su del término Financial Technology o tecnología financiera, es la industria que aplica nuevas tecnologías a actividades financieras y de inversión [M4 T3]
 
 **Firmware**: programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de un dispositivo de cualquier tipo. [M2 T1]
 
@@ -206,6 +270,8 @@ marp: false
 
 **Gadget**: pequeña aplicación cuyo objetivo es proporcionar ayuda y fácil acceso a las principales funcionalidades. También conocida como widget. [M1 T1] 
 
+**Geoms**: Objetos geométricos. [M4 T2]
+
 **Gigabyte (GB)**: Unidad de almacenamiento de información que equivale a 1 000 000 000 -mil millones- de bytes. [M3 T2]
 
 **Global Positioning System (GPS)**: sistema que permite posicionar un elemento sobre la superficie terrestre. [M1 T1] 
@@ -216,11 +282,17 @@ marp: false
 
 **GPL**: Es una licencia de derecho de autor muy usada en el mundo del software libre y código abierto, y garantiza a los usuarios finales la libertad de usar, estudiar, compartir y modificar el software. [M3 T2]
 
+**Gráfico**: Es la representación gráfica de datos. [M4 T2]
+
+**Granularidad**: Es el nivel de detalle con el que se almacena y se analiza una información. [M4 T2]
+
 ## H
 
 **Hardware**: elementos físicos que forman parte de un sistema informático. [M1 T2]
 
 **Hasheable**: en Python se dice que un objeto es hasheable si si valor hash,número enteros que se usan para comparar objetos de forma rápida, no cambia durante el ciclo de vida del objeto [M2 T3]
+
+**Herramientas visuales**: Son los mapas, gráficos o infografías, que presentan la información de manera visual, haciéndola así más accesible. [M4 T2]
 
 **High-Definition Multimedia Interface (HDMI)**: conexión digital de tamaño reducido, que nos permite transmitir audio y vídeo en alta definición, sin comprimir, e incluso datos desde un equipo a otro con un único cable. [M2 T1]
 
@@ -236,9 +308,13 @@ marp: false
 
 **IDE**: también conocido como entorno de desarrollo interactivo y consiste en una aplicación que proporciona un servicio integral al desarrollador de código. [M2 T3]
 
+**Inclinación**: Donde una cola de una distribución es más larga que la otra. [M4 T1]
+
 **Indentación**: es un anglicismo que se usa para indicar que el texto está separado del margen izquierdo  [M2 T3]
 
 **Indexar**: Elaborar un índice sobre los datos para facilitar el acceso a los mismos [M2 T2]
+
+**Infografía**: Representación gráfica simple y visualmente atractiva de un conjunto de ideas o datos. [M4 T2]
 
 **Infraestructura como servicio (IaaS)**: modelo de contratación de servicios en la nube en el que las empresas contratan los elementos necesarios de la infraestructura (almacenamiento, capacidad de cálculo...). [M1 T2]
 
@@ -248,13 +324,19 @@ marp: false
 
 **Inteligencia Artificial (IA)**: sistemas o máquinas que imitan la inteligencia humana. [M1 T1]
 
+**Intento**: Un evento con un resultado discreto (por ejemplo, un lanzamiento de moneda). [M4 T1]
+
 **International Organization for Standardization (ISO)**: Organización Internacional de Normalización o Estandarización, y se dedica a la creación de normas o estándares para asegurar la calidad, seguridad y eficiencia de productos y servicios. Son las llamadas Normas ISO. [M2 T1]
 
 **Intersección**: la intersección de dos conjuntos es una operación que resulta en otro conjunto que contiene los elementos comunes a los conjuntos de partida [M2 T2]
 
 ## J
 
+**JavaScript**: Es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web [M4 T2]
+
 **JavaScript Object Notation (JSON)**: formato de texto simple para el intercambio de datos con notación de JavaScript. [M1 T2]
+
+**Jerarquía de la información**: Es el nivel de importancia que otorgamos a nuestra información o datos de nuestra visualización. [M4 T2]
 
 **Join**: Operador que permite relacionar datos de diferentes tablas o relaciones. [M3 T2]
 
@@ -270,9 +352,19 @@ marp: false
 
 **LaTeX**: sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos que contengan fórmulas matemáticas. [M1 T3]
 
+**Lambda**: La tasa (por unidad de tiempo o espacio) a la que ocurren los eventos. [M4 T1]
+
+**Leaflet**: Es una biblioteca JavaScript de código abierto que se utiliza para crear aplicaciones de mapas web. [M4 T2]
+
 **Lenguaje máquina**: Sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
 
+**Lenguaje no verbal**: Es la información que transmitimos a través de los gestos y del lenguaje corporal. [M4 T2]
+
 **Lexema**: Es la parte de la palabra que no varía y que contiene su significado. [M3 T2]
+
+**Librerías de visualización**: Son herramientas para la creación de visualizaciones y gráficos de alta calidad empleando algún lenguaje de programación donde se implemente. [M4 T2]
+
+**Libro de trabajo**: son los ficheros en la nomenclatura de Tableau [M4 T3]
 
 **Linaje del dato**: El linaje de los datos es el historial de los datos, incluido el lugar donde los datos han viajado a lo largo de su existencia dentro de una organización. [M3 T1]
 
@@ -280,9 +372,25 @@ marp: false
 
 **Log**: En informática y computación, se usa el término registro, log o historial de log para referirse a la grabación secuencial en un archivo o en una base de datos de todos los acontecimientos que afectan a un proceso particular. [M3 T2]
 
+**Longitud de onda**: Es la distancia física entre dos puntos a partir de los cuales la onda se repite. [M4 T2]
+
+**Luminosidad**: Es el valor de la reflectancia de los colores. [M4 T2]
+
 ## M
 
+**Machine Learning**: Es una forma de inteligencia artificial que hace predicciones con datos. [M4 T2]
+
 **Machine to Machine (M2M)**: intercambio de información entre máquinas. [M1 T2]
+
+**Magnitud**: Propiedad de los cuerpos que puede ser medida, como el tamaño, el peso o la extensión [M4 T2]
+
+**Manera visual**: Transmitir y comunicar la información a través de imágenes. [M4 T2]
+
+**Marcador**: Son símbolos que se añaden a un gráfico para designar puntos de significación que pueden ayudar a analizar o comprender los datos. [M4 T2]
+
+**Mapa**: Es la representación geográfica, plana, reducida y simplificada de la superficie terrestre o de una parte de ésta. [M4 T2]
+
+**Matlab**: Es una plataforma de programación y cálculo numérico utilizada por millones de ingenieros y científicos para analizar datos, desarrollar algoritmos y crear modelos [M4 T2]
 
 **Matriz identidad**: matriz cuadrada (número de filas igual al número de columna) con todos los elementos igual a cero salvo la diagonal principal formada por unos y que es un elemento neutro en el producto de matrices [M2 T3]
 
@@ -291,6 +399,8 @@ marp: false
 **Media**: valor promedio de un conjunto de datos numéricos [M2 T2]
 
 **Mediana**: estadístico de posición central que parte la distribución en dos, es decir, deja la misma cantidad de valores a un lado que a otro [M2 T2]
+
+**Memoria visual**: Es la capacidad para entender y recordar el mundo de forma visual.[M4 T2] 
 
 **Metadatos**: es un grupo de datos que describen el contenido informativo de un objeto al que se denomina recurso. [M1 T3]
 
@@ -306,11 +416,19 @@ marp: false
 
 **MPV o MVP**: Es la versión mínima de un nuevo producto, e incluye las características básicas para satisfacer las necesidades de los clientes. [M3 T1]
 
+**Muestra**: Un subconjunto de un conjunto de datos más grande. [M4 T1]
+
 ## N
+
+**N**: El tamaño de la población (muestra).[M4 T1]
 
 **NaN**: NaN, proviene del acrónimo en inglés «Not a Number» (en español: no es un número). Este acrónimo se usa generalmente en algunos lenguajes de programación para expresar un resultado imposible de calcular, como el caso de las raíces negativas, indeterminaciones, etc., retornando NaN como resultado de la operación. [M3 T2]
 
+**Near real time**: Se utiliza para definir a los sistemas que si bien no son en tiempo real, están muy cerca de alcanzarlo [M4 T3]
+
 **Negación lógica**: función de verdad que cambia su valor de verdadero a falso y viceversa. [M2 T1]
+
+**Nivel de confianza**: El porcentaje de intervalos de confianza, construidos de la misma manera a partir de la misma población, que se espera que contengan la estadística de interés. [M4 T1]
 
 **None**: None o null como se conoce en la mayoría de lenguajes de programación, podríamos decir que su traducción sería nulo y significa que el valor es desconocido. [M3 T2]
 
@@ -324,7 +442,11 @@ marp: false
 
 **ODBMS**: En una base de datos orientada a objetos, la información se representa mediante objetos como los presentes en la programación orientada a objetos. [M3 T2]
 
+**OLTP**: de sus siglas en Inglés, Online Transactional Processing [M4 T3]
+
 **On-premise**: software que se instala de forma local en los sistemas de una organización. [M1 T2]
+
+**Ondas electromagnéticas**: Son la combinación de ondas en campos eléctricos y magnéticos producidas por cargas en movimiento. [M4 T2]
 
 **Open Access**: es un movimiento que promueve el acceso libre y gratuito a la literatura científica, fomentando su libre disponibilidad en Internet y permitiendo a cualquier usuario su lectura, descarga, copia, impresión, distribución o cualquier otro uso legal de la misma. [M1 T3]
 
@@ -340,6 +462,8 @@ marp: false
 
 ## P
 
+**Paleta de color**: Es un conjunto de colores que, combinados armoniosamente, expresan una idea, un sentimiento o un valor. [M4 T2]
+
 **Parámetro posicional**: es aquel parámetro que se le pasa a una función con una posición determinada [M2 T3]
 
 **Parquet**: Apache Parquet es un formato de archivo en columnas que proporciona optimizaciones para acelerar las consultas; es un formato de archivo mucho más eficaz que CSV o JSON. [M3 T2]
@@ -348,19 +472,33 @@ marp: false
 
 **Paso por valor**: una función recibe un parámetro que es una copia del valor [M2 T3]
 
+**Percepción**: Proceso por el cual el  cerebro interpreta las sensaciones que recibe a través de los sentidos para formar una impresión inconsciente o consciente de la realidad física que nos rodea. [M4 T2]
+
+**Pieplot**: Un gráfico circular o pieplot es un gráfico estadístico circular, que se divide en porciones para ilustrar la proporción numérica de cada categoría. [M4 T1]
+
 **Pipeline**: Consiste en una cadena de procesos que están conectados entre sí, de forma que la salida de cada elemento es la entrada del siguiente. Con esto se consigue sincronizar procesos y permitir que se comuniquen entre sí, pudiendo orquestar así un conjunto de procesos que buscan un resultado final conjunto. [M3 T2]
 
 **Plataforma como servicio (PaaS)**: modelo de contratación de servicios en la nube en el que las empresas construyen servicios sobre determinadas plataformas. [M1 T2]
 
+**Población**: El conjunto de datos más grande o la idea de un conjunto de datos. [M4 T1]
+
+**Prisma**: Cuerpo geométrico de cristal con dos bases triangulares paralelas, que se usa en óptica para reflejar, refractar o descomponer la luz. [M4 T2]
+
 **Procesado de lenguaje Natural (NLP)**: campo de la inteligencia artificial que se centra en el lenguaje humano. [M1 T1]
 
+**Proceso de visualización**: Se trata de conocer y entender qué es lo que vamos a comunicar y el contexto en el que lo vamos a llevar a cabo. [M4 T2]
+
 **Producto cartesiano**: El producto cartesiano se emplea en el ámbito de la matemática, más precisamente en el campo del álgebra. El producto cartesiano revela una relación de orden entre dos conjuntos, constituyéndose como un tercer conjunto. [M3 T2]
+
+**Producto escalar**: También conocido como producto interno o producto punto, es una operación algebraica que toma dos vectores y retorna un escalar, y que satisface ciertas condiciones. [M4 T1]
 
 **Programa**: conjunto de pasos lógicos escritos en un lenguaje de programación que permiten llevar a cabo una tarea [M2 T3]
 
 **Programación funcional**: paradigma declarativo de programación que expresa la secuencia de las distintas operaciones a llevar a cabo [M2 T3]
 
 **Prompt**: símbolo o texto que se encuentra antes del cursor en la consola del sistema. [M1 T3]
+
+**Propiedad visual**: Son las características visuales que nos permiten diferenciar los elementos en una representación gráfica. [M4 T2]
 
 **Proyectar**: Término del álgebra relacional, utilizado en bases de datos para referirnos a la selección de aquellos campos o columnas que queremos visualizar y obtener de una consulta. Realmente lo que estamos haciendo es crear una nueva relación (tabla) quedándonos solamente los campos seleccionados. [M3 T2]
 
@@ -376,7 +514,13 @@ marp: false
 
 **Rama**: copia puntual de los archivos que componen un repositorio de código que se crea para introducir modificaciones de código. [M1 T3]
 
+**Randome walker**.  Formalización matemática de la trayectoria que resulta de hacer sucesivos pasos aleatorios. [M4 T3]
+
+**Ranking**: Clasificación de mayor a menor , útil para establecer criterios de valoración. [M4 T2]
+
 **Raw**: Quiere decir «crudo» en inglés. Por lo tanto, se trata de un formato con el cual conservamos los datos tal cual están en orígen sin alterarlos. [M3 T2]
+
+**Real time**: Se utiliza para definir a los sistemas capaces de procesar la información en tiempo real [M4 T3]
 
 **Reconocimiento facial**: aplicación informática que identifica individuos a partir de sus rasgos faciales. [M1 T2] 
 
@@ -390,9 +534,13 @@ marp: false
 
 **Roadmap**: plan de programación o hoja de ruta que define el desarrollo del software con objetivos corto, medio y largo plazo; así como los hitos más relevantes. [M1 T2] 
 
+**RStudio**: Es un entorno de desarrollo integrado para el lenguaje de programación R, dedicado a la computación estadística y gráficos. [M4 T2]
+
 ## S
 
 **Sandbox**: Entorno aislado o de pruebas que nos permite probar o practicar sin alterar sistemas productivos. [M3 T2]
+
+**Saturación**: Es la intensidad de un color específico. [M4 T2]
 
 **SCD**: El término dimensiones lentamente cambiantes (SCD, por sus siglas en inglés: Slowly Changing Dimensions) hace referencia a que los datos de las dimensiones van cambiando poco a poco a lo largo del tiempo. No son incrementales como los "hechos". Cada día hay nuevas ventas o pedidos, sin embargo la categorización de los productos o clientes va cambiando poco a poco a lo largo del tiempo. [M3 T2]
 
@@ -403,6 +551,12 @@ marp: false
 **Servidor**: computador que atiende peticiones de máquinas cliente. 
 [M1 T2]
 
+**Sesgo**: Error sistemático. [M4 T1]
+
+**Sesgo muestral**: Una muestra que tergiversa la población. [M4 T2]
+
+**SIG**: Un sistema de información geográfica, también habitualmente citado como GIS por las siglas de su nombre en inglés Geographical Information System [M4 T2]
+
 **Simétrica**: Se dice que una función es simétrica si su valor no cambia al modificar el orden de sus argumentos [M2 T2]
 
 **Simple Object Access Protocol (SOAP)**: protocolo que define la comunicación entre objetos por medio de datos XML. 
@@ -411,6 +565,8 @@ marp: false
 **Sistema operativo (SO)**: es un programa o conjunto de programas de un sistema informático, que administra los recursos físicos (hardware), los protocolos de ejecución del resto del contenido (software), así como la interfaz de usuario. [M1 T3]
 
 **Slicing**: característica de Python que permite acceder de forma rápida a las partes de una secuencia (cadenas, tuplas o listas) [M2 T3]
+
+**Small-world**: En teoría de grafos hace referencia al hecho de que las personas se conocen entre sí a través de otros. Es un frafo que aunque cada nodo no tiene muchos vecinos, es fácil, a través de pequeños saltos, relacionarse con el resto de nodos de la red. [M4 T3]
 
 **Smartphone**: teléfono móvil con un sistema operativo que le permite funcionar como un pequeño ordenador. [M1 T1]
 
@@ -424,11 +580,15 @@ marp: false
 
 **Stack tecnológico**: Es el listado de todos los servicios tecnológicos utilizados para construir y ejecutar una sola aplicación.[M2 T3]
 
+**Stata**: Es un software de Estadística completo e integrado que provee todo lo que necesita para el Análisis de Datos, Gestión de Datos y Gráficos. [M4 T2]
+
 **Stopwords**: Estas palabras no tienen un significado por sí solas, sino que modifican o acompañan a otras, este grupo suele estar conformado por artículos, pronombres, preposiciones, adverbios e incluso algunos verbos. En el procesamiento de datos en lenguaje natural son filtradas antes o después del proceso en sí, no considerándolos por su nulo significado, en el caso de los buscadores como Google no lo consideran al momento de posicionar, pero si al momento de mostrar los resultados de búsqueda. [M3 T1]
 
 **String**: secuencia de caracteres usado para representar texto [M2 T3]
 
 **Spam**: forma de comunicación no deseada por el usuario que se envía de forma masiva. [M1 T1]
+
+**Suma de Riemann**: Es un tipo de aproximación del valor de una integral mediante una suma finita. [M4 T1]
 
 ## T
 
@@ -436,15 +596,25 @@ marp: false
 
 **Tabla hash**: Las tablas hash son estructuras de datos que se utilizan para almacenar un número elevado de datos sobre los que se necesitan operaciones de búsqueda e inserción muy eficientes. [M3 T2]
 
-**Técnias de normalización**: Es una técnica de diseño de base de datos que organiza las tablas de una manera que reduce la redundancia y la dependencia de los datos. Divide las tablas más grandes en tablas más pequeñas y las vincula usando relaciones. [M3 T2]
+**Técnicas de normalización**: Es una técnica de diseño de base de datos que organiza las tablas de una manera que reduce la redundancia y la dependencia de los datos. Divide las tablas más grandes en tablas más pequeñas y las vincula usando relaciones. [M3 T2]
 
 **Tecnologías de la Información y de la Comunicación (TIC)**: recursos y herramientas que se utilizan para el procesado, administración y distribución de la información. [M1 T1]
+
+**Tendencia**: Técnica que permite estudiar una o más variables en un período de tiempo aportando información para la toma de decisiones en la empresa [M4 T2]
 
 **Teorema de CAP**: En Ciencias de la computación, el teorema CAP, también llamado Conjetura de Brewer, enuncia que es imposible para un sistema de cómputo distribuido garantizar simultáneamente las siguientes características: Consistencia, Disponibilidad y Tolerancia al particionado. [M3 T2]
 
 **Teoría de conjuntos**: La teoría de conjuntos es una rama de las matemáticas y de la lógica, que estudia las características de los conjuntos y las operaciones que pueden efectuarse entre ellos, cómo por ejemplo los atributos y las relaciones que se pueden establecer entre ellos. [M3 T2]
 
+**Teoría de grafos**: Teoría que busca representar de forma visual conjuntos de datos abstractos en formas de nodos o vértices y la unión o relaciones que estas pueden tener entre dichos nodos. [M4 T3]
+
+**Teoría del límite central**: La tendencia de la distribución muestral a adoptar una forma normal a medida que aumenta el tamaño de la muestra. [M4 T1]
+
 **Tiempo UNIX**:  sistema para la descripción de instantes de tiempo: se define como la cantidad de segundos transcurridos desde la medianoche UTC del 1 de enero de 1970, sin contar segundos intercalares.[M2 T1]
+
+**Tono**: Es la frecuencia dominante que percibimos a través de nuestros ojos, y que vinculamos a un determinado color. [M4 T2]
+
+**Trama:** En diseño, es la textura(s) que se sobreponen entre sí, variando en grosor y dispersión para crear distintos colores y tonos. [M4 T2]
 
 **Transistor**: dispositivo electrónico semiconductor utilizado para entregar una señal de salida en respuesta a una señal de entrada. Dicha señal de salida puede ser amplificada, bloqueada o rectificada. [M2 T1]
 
@@ -453,6 +623,8 @@ marp: false
 **Transport Layer Security (TSL)**: protocolo criptográfico que proporciona comunicaciones seguras por una red. [M1 T2]
 
 **Trigger**: Un trigger o disparador es un objeto que se asocia con tablas y se almacena en la base de datos. Su nombre viene del comportamiento que presentan en su funcionamiento, ya que se ejecutan cuando sucede algún evento sobre las tablas a las que se encuentra asociado. [M3 T2]
+
+**Tupla**: Es un conjunto ordenado e inmutable de elementos del mismo o diferente tipo. [M4 T1]
 
 ## U
 
@@ -472,11 +644,23 @@ marp: false
 
 **Valores Nulos**: Un valor nulo significa que es un valor desconocido, indefinido o no inicializado. [M3 T1]
 
+**Valor relativo**: Es el valor que tiene la cifra por el lugar que ocupa: unidades, decenas, centenas, etc [M4 T2]
+
 **Variable global**: variable que se define fuera del cuerpo de cualquier función y que se puede usar en cualquier parte de un programa [M2 T3]
 
 **Variable local**: variable cuyo uso está restringido al ámbito de la función en la que se ha declarado [M2 T3]
 
+**Variable visual**. Las  características que diferencian un signo de otro. [M4 T2]
+
 **Varianza**: medida de dispersión definida como la esperanza del cuadrado de la desviación de dicha variable respecto a su media [M2 T2]
+
+**Vector ortogonal**: Este vector es ortogonal a otro cuando forman un ángulo recto y, por tanto, su producto escalar es cero (producto escalar: también conocido como producto interno o producto punto, es una operación algebraica que toma dos vectores y retorna un escalar, y que satisface ciertas condiciones.) [M4 T1]
+
+**Vectorización**: Función que se aplica sobre distintos valores de un objeto en Python de manera simultánea mediante su conversión a bucles en C. [M4 T1]
+
+**Vega-Lite**: Gramática de visualización de alto nivel que proporciona una sintaxis JSON concisa para la generación rápida de visualizaciones que sirva para respaldar el análisis de datos. [M4 T2]
+
+**Visualización de datos**: Representación de datos en un contexto visual. [M4 T2]
 
 **Voice over IP (VoIP)**: tecnología que permite enviar y recibir llamadas telefónicas por Internet. [M1 T1]
 
