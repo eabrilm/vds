@@ -596,6 +596,8 @@ marp: false
 
 **Tabla hash**: Las tablas hash son estructuras de datos que se utilizan para almacenar un número elevado de datos sobre los que se necesitan operaciones de búsqueda e inserción muy eficientes. [M3 T2]
 
+**Target**: es la variable que depende del resto de variables de entrada y la que se está intentando estimar [M5 T1]
+
 **Técnicas de normalización**: Es una técnica de diseño de base de datos que organiza las tablas de una manera que reduce la redundancia y la dependencia de los datos. Divide las tablas más grandes en tablas más pequeñas y las vincula usando relaciones. [M3 T2]
 
 **Tecnologías de la Información y de la Comunicación (TIC)**: recursos y herramientas que se utilizan para el procesado, administración y distribución de la información. [M1 T1]
@@ -645,6 +647,10 @@ marp: false
 **Valores Nulos**: Un valor nulo significa que es un valor desconocido, indefinido o no inicializado. [M3 T1]
 
 **Valor relativo**: Es el valor que tiene la cifra por el lugar que ocupa: unidades, decenas, centenas, etc [M4 T2]
+
+**Variable continua**: variable que puede tomar cualquier valor en un intervalo [M5 T1]
+
+**Variable discreta**: variable que solo puede tomar unos determinados valores [M5 T1]
 
 **Variable global**: variable que se define fuera del cuerpo de cualquier función y que se puede usar en cualquier parte de un programa [M2 T3]
 
