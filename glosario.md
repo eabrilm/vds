@@ -52,6 +52,8 @@ marp: false
 
 **API**: interfaz que define la comunicación entre aplicaciones a partir de la definición de subrutinas, funciones y procedimientos. [M1 T2]
 
+**Aprendizaje profundo**: conjunto de algoritmos de aprendizaje automático que se basa en el uso de grandes redes neuronales [M5 T2]
+
 **Arduino**: plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. [M1 T3]
 
 **Armonía**: Equilibrio, proporción y correspondencia adecuada entre las diferentes cosas de un conjunto. [M4 T2]
@@ -81,6 +83,8 @@ marp: false
 **Batch**: Proceso que se ejecuta por lotes, sin tener que procesarse en tiempo real. [M3 T2]
 
 **Base de datos relacional (RDBMS)**: base de datos que cumple el modelo relacional. [M1 T2]
+
+**Biass-variance tradeoff**: en el ámbito del aprendizaje supervisado existe un compromiso entre el sesgo y la varianza de los datos [M5 T2]
 
 **Big Data**: concepto que se usa para referir a un gran volumen de datos y al paradigma asociado. [M1 T1]
 
@@ -218,13 +222,11 @@ marp: false
 
 **Distribución Poison**: la distribución de frecuencia del número de eventos en unidades de tiempo o espacio muestreadas. [M4 T1]
 
+**Divergencia de Kullback-Leiber**: medida se la similitud entre dos funciones [M5 T2]
+
 **DKFN**: Técnica de Normalización de modelos relacionales Forma Normal Dominio-Clave. [M3 T2]
 
 ## E
-
-**Exploratory Data Analysis (EDA)**: Proceso que persigue explorar, descubrir e investigar anomalías, datos atípicos o patrones, mediante el uso de herramientas de visualización. [M4 T2]
-
-**Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 T1]
 
 **Entorno desarrollo integrado (IDE)**: también conocido como entorno de desarrollo interactivo y consiste en una aplicación que proporciona un servicio integral al desarrollador de código [M2 T3]
 
@@ -242,15 +244,21 @@ marp: false
 
 **Escapar**: consiste en añadir un carácter de escape antes de un carácter especial para que sea tenido en cuenta [M2 T3]
 
+**Espacio de Hilbert**: es la generalización de un espacio euclidiano que nos permite aplicar operaciones algebraicas y geométricas en espacios de alta dimensionalidad [M5 T2]
+
 **Espacio negativo**: Espacio o hueco “vacío” que queda entre el objeto y/o el borde de la imagen. [M4 T2]
 
 **Espectro cromático**: Son todos los colores perceptibles en los que se puede descomponer la luz solar. [M4 T2]
+
+**Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 T1]
 
 **ETL**: Viene de las siglas en inglés Extract, Transform & Load. Son procesos para extraer, transformar y cargar datos. [M3 T2]
 
 **Éxito**: El resultado de interés para un juicio. [M4 T1]
 
 **Experimento binomial**: Un juicio con dos resultados. [M4 T1]
+
+**Exploratory Data Analysis (EDA)**: Proceso que persigue explorar, descubrir e investigar anomalías, datos atípicos o patrones, mediante el uso de herramientas de visualización. [M4 T2]
 
 ## F
 
@@ -263,6 +271,8 @@ marp: false
 **Firmware**: programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de un dispositivo de cualquier tipo. [M2 T1]
 
 **Fortran**: Lenguaje de programación de alto nivel de propósito general, procedimental e imperativo, que está especialmente adaptado al cálculo numérico y a la computación científica. [M2 T2]
+
+**Función de coste**: se usa para obtener el error entre el valor estimado y el valor real para optimizar un modelo de aprendizaje automático [M5 T2]
 
 **Función reservada**: palabras que ya se usan en un lenguaje de programación con una finalidad concreta y que por tanto no puede usarse para identificar otros elementos [M2 T3]
 
@@ -384,13 +394,19 @@ marp: false
 
 **Magnitud**: Propiedad de los cuerpos que puede ser medida, como el tamaño, el peso o la extensión [M4 T2]
 
+**Maldición de dimensionalidad**: son efectos que surgen en el modelado como consecuencia de un alto número de variables [M5 T2]
+
 **Manera visual**: Transmitir y comunicar la información a través de imágenes. [M4 T2]
+
+**Manifold**: es un espacio topológico que se asemeja a un espacio euclídeo entre sus puntos más próximos [M5 T2]
 
 **Marcador**: Son símbolos que se añaden a un gráfico para designar puntos de significación que pueden ayudar a analizar o comprender los datos. [M4 T2]
 
 **Mapa**: Es la representación geográfica, plana, reducida y simplificada de la superficie terrestre o de una parte de ésta. [M4 T2]
 
 **Matlab**: Es una plataforma de programación y cálculo numérico utilizada por millones de ingenieros y científicos para analizar datos, desarrollar algoritmos y crear modelos [M4 T2]
+
+**Matriz de covarianza**: matriz cuadrada que contiene la covarianza entre los elementos de un vector [M5 T2]
 
 **Matriz identidad**: matriz cuadrada (número de filas igual al número de columna) con todos los elementos igual a cero salvo la diagonal principal formada por unos y que es un elemento neutro en el producto de matrices [M2 T3]
 
@@ -413,6 +429,8 @@ marp: false
 **Microservicios**: aproximación al desarrollo de software que se basa en construir pequeños servicios que se ejecutan a lo largo de un proceso. [M1 T2]
 
 **Missing values**: Este es el término que indica que una información no está completa del todo o carece de toda la información para llamarla “completa”. [M3 T1]
+
+**Modelo lineal**: es la combinación lineal de las variables de entrada para generar la variable objetivo [M5 T2]
 
 **MPV o MVP**: Es la versión mínima de un nuevo producto, e incluye las características básicas para satisfacer las necesidades de los clientes. [M3 T1]
 
@@ -483,6 +501,10 @@ marp: false
 **Población**: El conjunto de datos más grande o la idea de un conjunto de datos. [M4 T1]
 
 **Prisma**: Cuerpo geométrico de cristal con dos bases triangulares paralelas, que se usa en óptica para reflejar, refractar o descomponer la luz. [M4 T2]
+
+**Probabilidad condicional**: es la probabilidad de que se produzca un evento A como consecuencia de un segundo evento B [M5 T2]
+
+**Problema convexo**: es un problema cuya función de coste tiene forma convexa [M5 T2]
 
 **Procesado de lenguaje Natural (NLP)**: campo de la inteligencia artificial que se centra en el lenguaje humano. [M1 T1]
 
@@ -572,6 +594,8 @@ marp: false
 
 **Snapshot**: En informática, una copia instantánea de volumen o snapshot es una instantánea del estado de un sistema en un momento determinado. [M3 T2]
 
+**Sobreajuste**: consiste en entrenar demasiado un modelo de aprendizaje automático de forma que se aprende demasiado bien los datos de entrado [M5 T2]
+
 **Software**: programas y rutinas que permiten a los sistemas informáticos realizar tareas. [M1 T2]
 
 **Software as a Service (SaaS)**: modelo de distribución de software que se ofrece a través de Internet. [M1 T1]
@@ -612,6 +636,8 @@ marp: false
 
 **Teoría del límite central**: La tendencia de la distribución muestral a adoptar una forma normal a medida que aumenta el tamaño de la muestra. [M4 T1]
 
+**Test estadístico**: herramienta para validar una hipótesis y estimar su certeza [M5 T2]
+
 **Tiempo UNIX**:  sistema para la descripción de instantes de tiempo: se define como la cantidad de segundos transcurridos desde la medianoche UTC del 1 de enero de 1970, sin contar segundos intercalares.[M2 T1]
 
 **Tono**: Es la frecuencia dominante que percibimos a través de nuestros ojos, y que vinculamos a un determinado color. [M4 T2]
@@ -644,9 +670,13 @@ marp: false
 
 ## V
 
+**Validación cruzada**: se usa para evaluar modelos de aprendizaje automático a partir de la generación de distintos conjuntos de los datos de entrada [M5 T2]
+
 **Valores Nulos**: Un valor nulo significa que es un valor desconocido, indefinido o no inicializado. [M3 T1]
 
 **Valor relativo**: Es el valor que tiene la cifra por el lugar que ocupa: unidades, decenas, centenas, etc [M4 T2]
+
+**Variable aleatoria de Bernoulli**: es una variable que se genera de forma aleatoria a partir de una distribución de Bernoulli, y que por tanto, solo puede contener ceros o unos [M5 T2]
 
 **Variable continua**: variable que puede tomar cualquier valor en un intervalo [M5 T1]
 
