@@ -112,6 +112,8 @@ marp: false
 
 **Categoría**: Clase que resulta de una clasificación de personas o cosas según un criterio o jerarquía. [M4 T2]
 
+**Centroide**: el promedio de los valores de cada variable que definen cada uno de los grupos creados [M5 T3]
+
 **Chatbot**: software que usa mensajes predefinidos en una conversación entre un interlocutor humano y una máquina. [M1 T1]
 
 **Chief Executive Officer (CEO)**: director ejecutivo de una empresa. [M1 T2]
