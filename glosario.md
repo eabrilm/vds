@@ -148,6 +148,8 @@ marp: false
 
 **Colab**: producto de Google Research que permite a los usuarios escribir y ejecutar código en Python en un navegador [M2 T3]
 
+**Colinealidad**: que para cualquier par de variables x1 y x2, no exista una constante alpha que cumpla x1 = alpha x x2 [M5 T4]
+
 **Column-wise**: Forma de acceder a los datos de una matriz por columnas [M2 T2]
 
 **ColumnDataSource**: Es el objeto donde se almacenan los datos de un gráfico Bokeh. [M4 T2]
@@ -252,7 +254,11 @@ marp: false
 
 **Espectro cromático**: Son todos los colores perceptibles en los que se puede descomponer la luz solar. [M4 T2]
 
+**Estandarizar**: sustraer la media y dividir por la desviación estándar de cada variable [M5 T4]
+
 **Ethernet**: tecnología tradicional para conectar dispositivos en una red de área local (LAN) o una red de área amplia (WAN) por cable, lo que les permite comunicarse entre sí a través de un protocolo. [M2 T1]
+
+**Etiqueta**: Campo que se usa para identificar cierta propiedad, característica o clasificación de los datos. En aprendizaje supervisado sirven de orientación para el entrenamiento de datos. [M5 T4]
 
 **ETL**: Viene de las siglas en inglés Extract, Transform & Load. Son procesos para extraer, transformar y cargar datos. [M3 T2]
 
@@ -307,6 +313,8 @@ marp: false
 **Herramientas visuales**: Son los mapas, gráficos o infografías, que presentan la información de manera visual, haciéndola así más accesible. [M4 T2]
 
 **High-Definition Multimedia Interface (HDMI)**: conexión digital de tamaño reducido, que nos permite transmitir audio y vídeo en alta definición, sin comprimir, e incluso datos desde un equipo a otro con un único cable. [M2 T1]
+
+**Hiperplano**: Extensión del concepto de plano en varias dimensiones, típicamente más de 3 dimensiones. [M5 T4]
 
 **Hola mundo**: programa básico que muestra el texto “Hola mundo”, se considera el ejemplo más básico de programación [M2 T3]
 
