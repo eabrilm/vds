@@ -32,11 +32,17 @@ marp: false
 
 **Adyacente**: Que está muy próximo o unido a otra cosa. [M4 T2]
 
+**Agentes conversacionales**: ver chatbot. [M5 T9]
+
 **Algebra relacional**: Define un lenguaje de manipulación de datos ya que son un conjunto de operaciones simples sobre tablas relacionales, a partir de las cuales se definen operaciones más complejas. [M3 T2]
 
 **Algoritmo**: conjunto ordenado de operaciones que permite hacer cálculos y hallar la solución de un determinado tipo de problemas. [M2 T3]
 
+**Análisis de datos exploratorio**: ver análisis exploratorio. [M5 T9]
+
 **Analítica de diagnóstico**: análisis de datos detallado sobre un problema particular. [M1 T2]
+
+**Análisis de sentimiento**: una de las tareas pertenecientes al ámbito del NLP, que consiste en clasificar en función de la connotación positiva o negativa del lenguaje empleado en estos. [M5 T9]
 
 **Analítica descriptiva**: procesamiento de datos en el que se crea un resumen del histórico de datos. [M1 T2]
 
@@ -80,6 +86,8 @@ marp: false
 
 ## B
 
+**Bag of Words**: método de vectorización de textos que consiste en un simple conteo de todas las palabras del vocabulario. [M5 T9]
+
 **Batch**: Proceso que se ejecuta por lotes, sin tener que procesarse en tiempo real. [M3 T2]
 
 **Base de datos relacional (RDBMS)**: base de datos que cumple el modelo relacional. [M1 T2]
@@ -118,6 +126,8 @@ marp: false
 
 **Chief Executive Officer (CEO)**: director ejecutivo de una empresa. [M1 T2]
 
+**Clasificación de textos**: una de las tareas pertenecientes al ámbito del NLP, que consiste en predecir una etiqueta discreta para un documento textual. [M5 T9]
+
 **Clave externa o foránea**: La clave foránea identifica una columna o grupo de columnas en una tabla (tabla hija o referendo) que se refiere a una columna o grupo de columnas en otra tabla (tabla maestra o referenciada). [M3 T2]
 
 **Clave primaria**: Se llama clave primaria o llave primaria o clave principal a un campo o a una combinación de campos que identifica de forma única a cada fila de una tabla. [M3 T2]
@@ -141,6 +151,8 @@ marp: false
 **Código máquina**: conjunto de instrucciones interpretable por un circuito microprogramable. [M2 T1]
 
 **Coherencia**: Principio que garantiza que los usuarios que realizan consultas en una misma base de datos SIEMPRE obtengan los mismos datos. [M3 T2]
+
+**Coherencia**:  es una métrica cuantitativa para evaluar modelado de temas. Mide la similaridad semántica entre las palabras más frecuentes de un tema. Cuanto más parecidas sean las palabras de un tema entre ellas, más coherente se considera el tema. [M5 T9]
 
 **Coherencia visual**: Se trata de mantener un mismo estilo gráfico a lo largo de nuestras visualizaciones. [M4 T2]
 
@@ -168,9 +180,13 @@ marp: false
 
 **Core**: Es el núcleo de un procesador, un procesador puede tener uno o varios núcleos, para realizar el procesamiento (cálculos) de forma paralela. [M4 T3]
 
+**Corrección gramatical automática**: tarea que consiste en corregir las erratas ortográficas o gramaticales de un texto de manera automática. [M5 T9]
+
 **Correlación**: Correspondencia o relación recíproca entre dos o más acciones o fenómenos o variables. [M3 T1]
 
 **CPU**: La unidad central de procesamiento CPU o procesador es el hardware dentro de un computador, teléfonos inteligentes y otros dispositivos. Su trabajo es interpretar las instrucciones de un programa informático. [M3 T2]
+
+**Criterio de información según Akaike (AIC)**:  Medida de la bondad de un modelo estadístico que describe la relación entre el sesgo y la varianza. [M5 T8]
 
 **CSV**: Las siglas CSV vienen del inglés "Comma Separated Values" y significan valores separados por comas. Dicho esto, un archivo CSV es cualquier archivo de texto en el cual los caracteres están separados por comas, haciendo una especie de tabla en filas y columnas. [M3 T2]
 
@@ -230,7 +246,11 @@ marp: false
 
 **DKFN**: Técnica de Normalización de modelos relacionales Forma Normal Dominio-Clave. [M3 T2]
 
+**Downstream task**: en el contexto del “transfer learning” una “downstream task” es la tarea que realmente queremos resolver y para la que vamos a refinar (“finetune”) un modelo pre-entrenado en alguna otra tarea con datos más generales. [M5 T9]
+
 ## E
+
+**Ensemble**:  se define como grupo de cosas o personas que actúan en conjunto. En Machine Learning se refiere a un conglomerado de algoritmos que llamamos expertos  que se entrenan para realizar una predicción conjunta [M5 T5]
 
 **Entorno desarrollo integrado (IDE)**: también conocido como entorno de desarrollo interactivo y consiste en una aplicación que proporciona un servicio integral al desarrollador de código [M2 T3]
 
@@ -268,9 +288,15 @@ marp: false
 
 **Exploratory Data Analysis (EDA)**: Proceso que persigue explorar, descubrir e investigar anomalías, datos atípicos o patrones, mediante el uso de herramientas de visualización. [M4 T2]
 
+**Expresión regular**: ver “regex”. [M5 T9]
+
+**Extracción de información**: un conjunto de tareas del ámbito del NLP que consiste en extraer información de un texto no estructurado. Por ejemplo, extraer entidades, nombres o categorías gramaticales. [M5 T9]
+
 ## F
 
 **FAQ**: Abreviación para el concepto de preguntas frecuentes se refiere a una lista de preguntas y respuestas que surgen frecuentemente dentro de un determinado contexto y para un tema en particular [M2 T2]
+
+**Feature engineering**: es el proceso de extraer características numéricas de un conjunto de datos. En algunos casos, puede tratarse de datos no estructurados, como en el caso de los datos textuales. [M5 T9]
 
 **Feed**: fuente de datos o canal de difusión de información. [M1 T2]
 
@@ -281,6 +307,8 @@ marp: false
 **Fortran**: Lenguaje de programación de alto nivel de propósito general, procedimental e imperativo, que está especialmente adaptado al cálculo numérico y a la computación científica. [M2 T2]
 
 **Función de coste**: se usa para obtener el error entre el valor estimado y el valor real para optimizar un modelo de aprendizaje automático [M5 T2]
+
+**Función de pérdida**: en machine learning y optimización, la función de pérdida (“los function”) es una función que mapea valores a números reales representando un coste (una pérdida). El proceso de optimización o de entrenamiento tiene por objetivo minimizar el valor de la función de pérdida. [M5 T9]
 
 **Función reservada**: palabras que ya se usan en un lenguaje de programación con una finalidad concreta y que por tanto no puede usarse para identificar otros elementos [M2 T3]
 
@@ -374,13 +402,21 @@ marp: false
 
 **Lambda**: La tasa (por unidad de tiempo o espacio) a la que ocurren los eventos. [M4 T1]
 
+**Latent Dirichlet Allocation**: es un tipo de modelo que permite que conjuntos de observaciones puedan ser explicados por grupos no observados que explican porqué algunas partes de los datos son similares. Se usa, por ejemplo, en el modelado de temas. [M5 T9]
+
 **Leaflet**: Es una biblioteca JavaScript de código abierto que se utiliza para crear aplicaciones de mapas web. [M4 T2]
 
+**Lemmatization**: es un proceso que consiste en, dada una forma flexionada (es decir, en plural, en femenino, conjugada, etc), hallar el lema correspondiente. El lema es la forma que por convenio se acepta como representante de todas las formas flexionadas de una misma palabra. [M5 T9]
+
 **Lenguaje máquina**: Sistema de codificación que utiliza el sistema numérico de dos dígitos: 0 y 1. [M2 T1]
+
+**Lenguaje natural**: cualquier lenguaje que usen los humanos para comunicarse y que haya evolucionado de manera natural, no premeditada o planeada. [M5 T9]
 
 **Lenguaje no verbal**: Es la información que transmitimos a través de los gestos y del lenguaje corporal. [M4 T2]
 
 **Lexema**: Es la parte de la palabra que no varía y que contiene su significado. [M3 T2]
+
+**Lexikon**: lista de palabras y/o n-gramas únicos que aparecen en nuestro corpus. [M5 T9]
 
 **Librerías de visualización**: Son herramientas para la creación de visualizaciones y gráficos de alta calidad empleando algún lenguaje de programación donde se implemente. [M4 T2]
 
@@ -440,15 +476,22 @@ marp: false
 
 **Missing values**: Este es el término que indica que una información no está completa del todo o carece de toda la información para llamarla “completa”. [M3 T1]
 
+**Modelo de lenguaje**: es una distribución de probabilidad sobre secuencias de palabras. Es habitual entrenar modelos de lenguaje como tarea general desde la cual realizar “transfer learning” para tareas más concretas. [M5 T9]
+
 **Modelo lineal**: es la combinación lineal de las variables de entrada para generar la variable objetivo [M5 T2]
 
 **MPV o MVP**: Es la versión mínima de un nuevo producto, e incluye las características básicas para satisfacer las necesidades de los clientes. [M3 T1]
 
 **Muestra**: Un subconjunto de un conjunto de datos más grande. [M4 T1]
 
+**Multinomial Naïve Bayes**: algoritmo de clasificación basado en el Teorema de Bayes y que se considerar naive, porque presupone la independencia probabilística de todas las características de los datos. [M5 T9]
+
+
 ## N
 
 **N**: El tamaño de la población (muestra).[M4 T1]
+
+**n-gramas**: un n-grama es una secuencia de n palabras. En algunas tareas de NLP se toman como elementos del vocabulario no solo palabras individuales, sino lo bigramas (e incluso trigramas) más frecuentes. [M5 T9]
 
 **NaN**: NaN, proviene del acrónimo en inglés «Not a Number» (en español: no es un número). Este acrónimo se usa generalmente en algunos lenguajes de programación para expresar un resultado imposible de calcular, como el caso de las raíces negativas, indeterminaciones, etc., retornando NaN como resultado de la operación. [M3 T2]
 
@@ -476,6 +519,8 @@ marp: false
 
 **Ondas electromagnéticas**: Son la combinación de ondas en campos eléctricos y magnéticos producidas por cargas en movimiento. [M4 T2]
 
+**One-hot encoding**: método de codificación de características categóricas que consiste en descomponerlas en n características binarias (por n etiquetas). [M5 T9]
+
 **Open Access**: es un movimiento que promueve el acceso libre y gratuito a la literatura científica, fomentando su libre disponibilidad en Internet y permitiendo a cualquier usuario su lectura, descarga, copia, impresión, distribución o cualquier otro uso legal de la misma. [M1 T3]
 
 **Open source**: El software de código abierto es el software cuyo código fuente y otros derechos que normalmente son exclusivos para quienes poseen los derechos de autor, son publicados bajo una licencia de código abierto o forman parte del dominio público.
@@ -492,15 +537,23 @@ marp: false
 
 **Paleta de color**: Es un conjunto de colores que, combinados armoniosamente, expresan una idea, un sentimiento o un valor. [M4 T2]
 
+**Panel**: nombre que recibe una serie temporal multivariante que representa múltiples entidades. [M5 T8]
+
 **Parámetro posicional**: es aquel parámetro que se le pasa a una función con una posición determinada [M2 T3]
 
+**Paro**: Cantidad de personas sin empleo activo en un país.[M5 T8]
+
 **Parquet**: Apache Parquet es un formato de archivo en columnas que proporciona optimizaciones para acelerar las consultas; es un formato de archivo mucho más eficaz que CSV o JSON. [M3 T2]
+
+**Parser**: Programa que analiza una porción de texto para determinar su estructura lógica. [M5 T8]
 
 **Paso por referencia**: una función recibe un puntero que apunta a la dirección en memoria de dicho variable [M2 T3]
 
 **Paso por valor**: una función recibe un parámetro que es una copia del valor [M2 T3]
 
 **Percepción**: Proceso por el cual el  cerebro interpreta las sensaciones que recibe a través de los sentidos para formar una impresión inconsciente o consciente de la realidad física que nos rodea. [M4 T2]
+
+**Perplejidad**: medida cuantitativa que sirve para evaluar modelos de temas. En concreto, mide la capacidad de nuestro modelo de no sorprenderse con nuevos datos.  [M5 T9]
 
 **Pieplot**: Un gráfico circular o pieplot es un gráfico estadístico circular, que se divide en porciones para ilustrar la proporción numérica de cada categoría. [M4 T1]
 
@@ -538,6 +591,8 @@ marp: false
 
 ## Q
 
+**Question answering**: una de las tareas del ámbito del NLP. Consiste en entrenar un modelo para que sea capaz de responder preguntas planteadas por un humano en un lenguaje natural. [M5 T9]
+
 ## R
 
 **Radián**: El radián mide el ángulo presentado como central a una circunferencia y su medida equivale a la cantidad de veces que la longitud del radio traza un arco determinado en la circunferencia. [M2 T3]
@@ -554,6 +609,8 @@ marp: false
 
 **Real time**: Se utiliza para definir a los sistemas capaces de procesar la información en tiempo real [M4 T3]
 
+**Reconocimiento automático de voz**: una de las tareas del ámbito del NLP. Consiste en transcribir automáticamente lenguaje hablado. Se usa, por ejemplo, en la generación automática de subtítulos. [M5 T9]
+
 **Reconocimiento facial**: aplicación informática que identifica individuos a partir de sus rasgos faciales. [M1 T2] 
 
 **Regex**: abreviación de expresión regular para referirse a la secuencia de caracteres que forma un patrón de búsqueda [M2 T3]
@@ -564,9 +621,13 @@ marp: false
 
 **Residuo**: Número que se le ha de restar al dividendo para que sea igual a un determinado número de veces el divisor. [M2 T2]
 
+**Resumen de textos**: una de las tareas del ámbito del NLP. Consiste en crear resúmenes de textos de manera automática. [M5 T9]
+
 **Roadmap**: plan de programación o hoja de ruta que define el desarrollo del software con objetivos corto, medio y largo plazo; así como los hitos más relevantes. [M1 T2] 
 
 **RStudio**: Es un entorno de desarrollo integrado para el lenguaje de programación R, dedicado a la computación estadística y gráficos. [M4 T2]
+
+**Ruido**: Señal aleatoria que no tiene ningún patrón. [M5 T8]
 
 ## S
 
@@ -577,6 +638,8 @@ marp: false
 **SCD**: El término dimensiones lentamente cambiantes (SCD, por sus siglas en inglés: Slowly Changing Dimensions) hace referencia a que los datos de las dimensiones van cambiando poco a poco a lo largo del tiempo. No son incrementales como los "hechos". Cada día hay nuevas ventas o pedidos, sin embargo la categorización de los productos o clientes va cambiando poco a poco a lo largo del tiempo. [M3 T2]
 
 **Script**: fichero que contiene unas instrucciones escritas en código que sirven para ejecutar diversas funciones dentro de un programa. [M1 T3]
+
+**Semántica distribucional**: teoría semántica según la cual el significado de las palabras puede reducirse a los contextos en los que éstas tienden a aparecer.  [M5 T9]
 
 **Semilla**: número utilizado para inicializar un generador de números pseudoaleatorios [M2 T2]
 
@@ -590,6 +653,8 @@ marp: false
 **SIG**: Un sistema de información geográfica, también habitualmente citado como GIS por las siglas de su nombre en inglés Geographical Information System [M4 T2]
 
 **Simétrica**: Se dice que una función es simétrica si su valor no cambia al modificar el orden de sus argumentos [M2 T2]
+
+**Similaridad de cosino**: medida de similaridad basada en la distancia de cosino. También se puede definir como el producto escalar de los vectores dividido entre el producto de la largada de los vectores. [M5 T9]
 
 **Simple Object Access Protocol (SOAP)**: protocolo que define la comunicación entre objetos por medio de datos XML. 
 [M1 T2]
@@ -616,6 +681,8 @@ marp: false
 
 **Stata**: Es un software de Estadística completo e integrado que provee todo lo que necesita para el Análisis de Datos, Gestión de Datos y Gráficos. [M4 T2]
 
+**Stemming**: es un proceso que consiste en reducir una palabra a su raíz. Consiste en eliminar sufijos y prefijos habituales, quedándonos con lo que queda (que a menudo no resulta en una palabra correcta). [M5 T9]
+
 **Stopwords**: Estas palabras no tienen un significado por sí solas, sino que modifican o acompañan a otras, este grupo suele estar conformado por artículos, pronombres, preposiciones, adverbios e incluso algunos verbos. En el procesamiento de datos en lenguaje natural son filtradas antes o después del proceso en sí, no considerándolos por su nulo significado, en el caso de los buscadores como Google no lo consideran al momento de posicionar, pero si al momento de mostrar los resultados de búsqueda. [M3 T1]
 
 **String**: secuencia de caracteres usado para representar texto [M2 T3]
@@ -638,6 +705,8 @@ marp: false
 
 **Tendencia**: Técnica que permite estudiar una o más variables en un período de tiempo aportando información para la toma de decisiones en la empresa [M4 T2]
 
+**Teorema de Bayes**: es un teorema de teoría de la probabilidad según el cual la probabilidad condicional de A respecto B es igual a la probabilidad condicional de B respecto A multiplicada por la probabildad de A dividida por la probabilidad de B. [M5 T9]
+
 **Teorema de CAP**: En Ciencias de la computación, el teorema CAP, también llamado Conjetura de Brewer, enuncia que es imposible para un sistema de cómputo distribuido garantizar simultáneamente las siguientes características: Consistencia, Disponibilidad y Tolerancia al particionado. [M3 T2]
 
 **Teoría de conjuntos**: La teoría de conjuntos es una rama de las matemáticas y de la lógica, que estudia las características de los conjuntos y las operaciones que pueden efectuarse entre ellos, cómo por ejemplo los atributos y las relaciones que se pueden establecer entre ellos. [M3 T2]
@@ -648,11 +717,21 @@ marp: false
 
 **Test estadístico**: herramienta para validar una hipótesis y estimar su certeza [M5 T2]
 
+**TF-IDF**: método de vectorización de documentos que tienen en cuenta no solo las palabras que ocurren en el documento sino también su relevancia para el documento. [M5 T9]
+
 **Tiempo UNIX**:  sistema para la descripción de instantes de tiempo: se define como la cantidad de segundos transcurridos desde la medianoche UTC del 1 de enero de 1970, sin contar segundos intercalares.[M2 T1]
 
 **Tono**: Es la frecuencia dominante que percibimos a través de nuestros ojos, y que vinculamos a un determinado color. [M4 T2]
 
+**Topic modeling**: una de las tareas del ámbito del NLP que consiste en agrupar documentos según sus temas principales. SU entrenamiento es no sueprvisado y uno de los algoritmos más habituales para realizarla es Latent Dirichlet Allocation.  [M5 T9]
+
+**Toquenización**: uno de los pasos habituales a la hora de preprocesar texto para ser tratado en una tarea de NLP. Consiste en dividir un documento en palabras (tokens). [M5 T9]
+
+**Traducción automática**: una de las aplicaciones de NLP que consiste en traducir expresiones de un lenguaje natural a otro de manera automática. [M5 T9]
+
 **Trama:** En diseño, es la textura(s) que se sobreponen entre sí, variando en grosor y dispersión para crear distintos colores y tonos. [M4 T2]
+
+**Transfer learning**: proceso habitual en el entrenamiento de modelos de NLP que consiste en utilizar los resultados de un modelo como punto de partida para otro entrenamiento y así transferir conocimiento de un ámbito a otro. [M5 T9]
 
 **Transistor**: dispositivo electrónico semiconductor utilizado para entregar una señal de salida en respuesta a una señal de entrada. Dicha señal de salida puede ser amplificada, bloqueada o rectificada. [M2 T1]
 
@@ -710,6 +789,8 @@ marp: false
 
 **Voice over IP (VoIP)**: tecnología que permite enviar y recibir llamadas telefónicas por Internet. [M1 T1]
 
+**Vocabulario**: lista de palabras y/o n-gramas únicos que aparecen en nuestro corpus. [M5 T9]
+
 ## W
 
 **Warning**: Mensajes que muestra el compilador sobre situaciones “especiales” en las que se ha detectado una anomalía pero que, asumiendo ciertas condiciones, la traducción del programa continúa [M2 T2]
@@ -719,6 +800,11 @@ marp: false
 **Web 2.0**: término utilizado para referirse a la web social basada en la colaboración y en la compartición de información. [M1 T1]
 
 **Webmail**: sistema de correo electrónico que permite acceder a través de una navegador web. [M1 T1]
+
+**Wordcloud**: método de visualización de un corpus que representa los elementos del vocabulario en distintos tamaños en función de su frecuencia. [M5 T9]
+
+**Word embeddings**: puede referirse a cualquier método de vectorización de palabras, pero habitualmente se usa para referirse a los métodos que emplean redes neuronales para su entrenamiento. Por ejemplo, Word2Vec. [M5 T9]
+
 
 ## X
 
