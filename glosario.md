@@ -58,6 +58,9 @@ marp: false
 
 **API**: interfaz que define la comunicación entre aplicaciones a partir de la definición de subrutinas, funciones y procedimientos. [M1 T2]
 
+**Aprendizaje por refuerzo**. Rama del aprendizaje máquina basada en la resolución de problemas mediante fórmulas que modelen agentes que, mediante acciones, reciben recompensas que modifican el comportamiento futuro. [M6 T1]
+
+
 **Aprendizaje profundo**: conjunto de algoritmos de aprendizaje automático que se basa en el uso de grandes redes neuronales [M5 T2]
 
 **Arduino**: plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. [M1 T3]
@@ -125,6 +128,8 @@ marp: false
 **Chatbot**: software que usa mensajes predefinidos en una conversación entre un interlocutor humano y una máquina. [M1 T1]
 
 **Chief Executive Officer (CEO)**: director ejecutivo de una empresa. [M1 T2]
+
+**Clases desbalanceadas**. En problemas de clasificación, se produce cuando las etiquetas no tienen una distribución uniforme. [M6 T1]
 
 **Clasificación de textos**: una de las tareas pertenecientes al ámbito del NLP, que consiste en predecir una etiqueta discreta para un documento textual. [M5 T9]
 
@@ -212,6 +217,9 @@ marp: false
 
 **Data profiling**: El Data profiling o perfilado de datos es un proceso que consiste en revisar las fuentes de datos, entender bien su estructura y ver el potencial que tiene para sus usos en los siguientes procesos. [M3 T2]
 
+**Data Science For Good**. Es una rama del Data Science orientada al uso de los datos para resolver problemas sociales y humanitarios. [M6 T1]
+
+
 **Data scientist**: experto en data science y cuyo trabajo consiste en extraer conocimiento a partir de datos. [M1 T2]
 
 **Data warehouse**: es una colección de datos orientada a un determinado ámbito (empresa, organización, etc.), integrado, no volátil y variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se utiliza [M1 T2]
@@ -249,6 +257,8 @@ marp: false
 **Downstream task**: en el contexto del “transfer learning” una “downstream task” es la tarea que realmente queremos resolver y para la que vamos a refinar (“finetune”) un modelo pre-entrenado en alguna otra tarea con datos más generales. [M5 T9]
 
 ## E
+
+**Economía del comportamiento**. Rama de la psicología que estudia los factores externos que impactan en las decisiones humanas de forma sistemática. [M6 T1]
 
 **Ensemble**:  se define como grupo de cosas o personas que actúan en conjunto. En Machine Learning se refiere a un conglomerado de algoritmos que llamamos expertos  que se entrenan para realizar una predicción conjunta [M5 T5]
 
@@ -293,6 +303,9 @@ marp: false
 **Extracción de información**: un conjunto de tareas del ámbito del NLP que consiste en extraer información de un texto no estructurado. Por ejemplo, extraer entidades, nombres o categorías gramaticales. [M5 T9]
 
 ## F
+
+**Fairness AI (IA justa)**. Rama de la Inteligencia Artificial cuyo objetivo es evitar toda discriminación en los modelos de aprendizaje automático. [M6 T1]
+
 
 **FAQ**: Abreviación para el concepto de preguntas frecuentes se refiere a una lista de preguntas y respuestas que surgen frecuentemente dentro de un determinado contexto y para un tema en particular [M2 T2]
 
@@ -369,6 +382,8 @@ marp: false
 **Ingestar**: Término muy utilizado en las plataformas de datos proveniente del verbo en Inglés “Ingest”. Es un sinónimo de introducir o cargar datos. [M3 T2]
 
 **In-house**: modalidad de trabajo que hace referencia a recursos propios de la empresa. [M1 T2]
+
+**Ingeniería de características**. Es el proceso en la resolución de problemas que va desde los datos en crudo a un conjunto de datos preparado para su modelado. [M6 T1]
 
 **Inteligencia Artificial (IA)**: sistemas o máquinas que imitan la inteligencia humana. [M1 T1]
 
@@ -511,6 +526,9 @@ marp: false
 
 ## O
 
+**Objetivos de Desarrollo Sostenible, ODS**. Se trata de una serie de 17 objetivos propuestos por las Naciones Unidas en 2015 para el desarrollo del mundo hasta 2030. [M6 T1]
+
+
 **ODBMS**: En una base de datos orientada a objetos, la información se representa mediante objetos como los presentes en la programación orientada a objetos. [M3 T2]
 
 **OLTP**: de sus siglas en Inglés, Online Transactional Processing [M4 T3]
@@ -573,6 +591,9 @@ marp: false
 
 **Proceso de visualización**: Se trata de conocer y entender qué es lo que vamos a comunicar y el contexto en el que lo vamos a llevar a cabo. [M4 T2]
 
+**Product-led growth (crecimiento liderado por el producto)**. Metodología de gestión de proyectos basada en el análisis de la interacción entre usuarios y el producto para derivar los puntos de mejora del último en el futuro. [M6 T1]
+
+
 **Producto cartesiano**: El producto cartesiano se emplea en el ámbito de la matemática, más precisamente en el campo del álgebra. El producto cartesiano revela una relación de orden entre dos conjuntos, constituyéndose como un tercer conjunto. [M3 T2]
 
 **Producto escalar**: También conocido como producto interno o producto punto, es una operación algebraica que toma dos vectores y retorna un escalar, y que satisface ciertas condiciones. [M4 T1]
@@ -623,6 +644,8 @@ marp: false
 
 **Resumen de textos**: una de las tareas del ámbito del NLP. Consiste en crear resúmenes de textos de manera automática. [M5 T9]
 
+**Retorno de la inversión**. Métrica que evalúa la eficiencia o beneficio de una inversión relativa a su coste. [M6 T1]
+
 **Roadmap**: plan de programación o hoja de ruta que define el desarrollo del software con objetivos corto, medio y largo plazo; así como los hitos más relevantes. [M1 T2] 
 
 **RStudio**: Es un entorno de desarrollo integrado para el lenguaje de programación R, dedicado a la computación estadística y gráficos. [M4 T2]
@@ -647,6 +670,12 @@ marp: false
 [M1 T2]
 
 **Sesgo**: Error sistemático. [M4 T1]
+
+**Sesgo algorítmico**. Se produce cuando un modelo refleja los sesgos humanos en alguna de las etapas de la solución propuesta. [M6 T1]
+
+**Sesgos cognitivos**. Error sistemático humano provocado por alguna desviación o distorsión en el proceso mental, llegando a conclusiones irracionales. [M6 T1]
+
+**Sesgo de selección**. Error sistemático estadístico debido a la elección de la muestra utilizada en la resolución de un problema. [M6 T1]
 
 **Sesgo muestral**: Una muestra que tergiversa la población. [M4 T2]
 
@@ -678,6 +707,8 @@ marp: false
 **SQL**: SQL (por sus siglas en inglés Structured Query Language), es un lenguaje  diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales. [M3 T2]
 
 **Stack tecnológico**: Es el listado de todos los servicios tecnológicos utilizados para construir y ejecutar una sola aplicación.[M2 T3]
+
+**Stakeholder (interesado)**: un stakeholder es una persona con interés en un proyecto, un producto o una compañía. El interés puede ser bien porque sea un decisor en el proyecto, o bien porque es impactado por los resultados del mismo. [M6 T1]
 
 **Stata**: Es un software de Estadística completo e integrado que provee todo lo que necesita para el Análisis de Datos, Gestión de Datos y Gráficos. [M4 T2]
 
@@ -757,9 +788,18 @@ marp: false
 
 **Universal Serial Bus (USB o BUS)**:  bus de comunicaciones que sigue un estándar que define los cables, conectores y protocolos usados en un bus para conectar, comunicar y proveer de alimentación eléctrica entre computadoras, periféricos y dispositivos electrónicos. [M2 T1]
 
+**Unknown unknowns**. En gestión de riesgos, se refiere a aquellas cuestiones que impactan en el proyecto, pero que se desconoce incluso su existencia. [M6 T1]
+
+**UTC**. Siglas de Coordinated Universal Time, es la referencia temporal desde 1972. Se basa en el tiempo atómico y se compensa la rotación de la tierra mediante la adición de los segundos necesarios. [M6 T1]
+
+
+
 ## V
 
 **Validación cruzada**: se usa para evaluar modelos de aprendizaje automático a partir de la generación de distintos conjuntos de los datos de entrada [M5 T2]
+
+**Validación estratificada**. Es el proceso de separación de conjuntos de entrenamiento y validación, en el que el conjunto de validación conserva la distribución original de las etiquetas del problema. [M6 T1]
+
 
 **Valores Nulos**: Un valor nulo significa que es un valor desconocido, indefinido o no inicializado. [M3 T1]
 
@@ -800,6 +840,9 @@ marp: false
 **Web 2.0**: término utilizado para referirse a la web social basada en la colaboración y en la compartición de información. [M1 T1]
 
 **Webmail**: sistema de correo electrónico que permite acceder a través de una navegador web. [M1 T1]
+
+**Weight of Evidence**. Es una transformación de una característica categórica según el logaritmo de la probabilidad de cada etiqueta, para un valor dado. [M6 T1]
+
 
 **Wordcloud**: método de visualización de un corpus que representa los elementos del vocabulario en distintos tamaños en función de su frecuencia. [M5 T9]
 
