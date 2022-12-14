@@ -34,6 +34,8 @@ marp: false
 
 **Agentes conversacionales**: ver chatbot. [M5 T9]
 
+**Agile Release Train**: En la metodología SAFe, se trata de un conjunto de equipos ágiles que operan de forma coordinada en el tiempo. [M6 T2]
+
 **Algebra relacional**: Define un lenguaje de manipulación de datos ya que son un conjunto de operaciones simples sobre tablas relacionales, a partir de las cuales se definen operaciones más complejas. [M3 T2]
 
 **Algoritmo**: conjunto ordenado de operaciones que permite hacer cálculos y hallar la solución de un determinado tipo de problemas. [M2 T3]
@@ -58,8 +60,9 @@ marp: false
 
 **API**: interfaz que define la comunicación entre aplicaciones a partir de la definición de subrutinas, funciones y procedimientos. [M1 T2]
 
-**Aprendizaje por refuerzo**. Rama del aprendizaje máquina basada en la resolución de problemas mediante fórmulas que modelen agentes que, mediante acciones, reciben recompensas que modifican el comportamiento futuro. [M6 T1]
+**API-first design**: Paradigma de diseño de software donde el diseño de cualquier producto comienza por su interfaz, o API, según un conjunto de buenas prácticas. Tras este diseño, se procede al desarrollo de las funcionalidades que soporta la API diseñada. [M6 T2]
 
+**Aprendizaje por refuerzo**. Rama del aprendizaje máquina basada en la resolución de problemas mediante fórmulas que modelen agentes que, mediante acciones, reciben recompensas que modifican el comportamiento futuro. [M6 T1]
 
 **Aprendizaje profundo**: conjunto de algoritmos de aprendizaje automático que se basa en el uso de grandes redes neuronales [M5 T2]
 
@@ -128,6 +131,8 @@ marp: false
 **Chatbot**: software que usa mensajes predefinidos en una conversación entre un interlocutor humano y una máquina. [M1 T1]
 
 **Chief Executive Officer (CEO)**: director ejecutivo de una empresa. [M1 T2]
+
+**CI/CD**: Se trata de un conjunto de prácticas para la consecución de integración y despliegue de código de forma continua. Este paradigma intenta mantener un ciclo de vida del desarrollo de software continuo para maximizar los principios ágiles en los que se fundamenta. [M6 T2]
 
 **Clases desbalanceadas**. En problemas de clasificación, se produce cuando las etiquetas no tienen una distribución uniforme. [M6 T1]
 
@@ -230,6 +235,8 @@ marp: false
 
 **Deepfake**: técnica de edición de vídeo basada en aprendizaje profundo para crear un vídeo falso que emula gestos faciales. [M1 T2]
 
+**Definition of Done**: En las metodologías ágiles, se trata de una convención aplicada a todas las tareas para conocer en cada contexto cuándo una tarea se puede entender de forma conjunta e inequívoca como completada. [M6 T2]
+
 **Demonio**: Es un tipo especial de programa (también llamado programa residente o daemon) que se ejecuta en segundo plano, en vez de ser controlado directamente por el usuario. [M3 T2]
 
 **Descenso por gradiente**: El descenso de gradiente es un algoritmo que estima numéricamente dónde una función genera sus valores más bajos. [M3 T1]
@@ -254,7 +261,11 @@ marp: false
 
 **DKFN**: Técnica de Normalización de modelos relacionales Forma Normal Dominio-Clave. [M3 T2]
 
+**Documentación**: Es cualquier tipo de material con capacidad de comunicación utilizado para describir o explicar con diferente grado de detalle cualquier atributo de un sistema u objeto de interés. [M6 T2]
+
 **Downstream task**: en el contexto del “transfer learning” una “downstream task” es la tarea que realmente queremos resolver y para la que vamos a refinar (“finetune”) un modelo pre-entrenado en alguna otra tarea con datos más generales. [M5 T9]
+
+**Drift**: Una ‘desviación’ en los modelos de aprendizaje automático, o drift, resulta de cualquier cambio en una distribución de probabilidad a lo largo del tiempo. Puede producirse sólo en los datos (data drift) o en la distribución condicional de las salidas respecto de la entrada (concept drift). [M6 T2]
 
 ## E
 
@@ -407,6 +418,8 @@ marp: false
 
 ## K
 
+**Kanban**: es una metodología de planificación de procesos que tiene como objetivo la visibilización de las tareas y estimular las mejoras incrementales en los productos gestionados. [M6 T2]
+
 **Key Performance Indicator (KPI)**: indicador de rendimiento que se utiliza para determinar el grado de consecución de un objetivo. [M1 T2]
 
 **Kilobyte (KB)**: Unidad de almacenamiento de información que equivale a 103 (mil) bytes. [M3 T2]
@@ -483,13 +496,19 @@ marp: false
 
 **Método**: función de la que dispone un objeto y que se puede invocar [M2 T3]
 
+**Metodologías ágiles**: es un conjunto de metodologías de carácter iterativo, que estimulan el aprendizaje y el desarrollo continuo y conjunto entre todos los equipos involucrados en el diseño, desarrollo y entrega de los productos gestionados. [M6 T2]
+
 **Metodología bottom-up**: En el diseño bottom-up las partes individuales se diseñan con detalle y luego se enlazan para formar componentes más grandes, que a su vez se enlazan hasta que se forma el sistema completo. [M3 T2]
 
 **Metodología top-down**: En el modelo top-down se formula un resumen del sistema, sin especificar detalles. [M3 T2]
 
 **Microservicios**: aproximación al desarrollo de software que se basa en construir pequeños servicios que se ejecutan a lo largo de un proceso. [M1 T2]
 
+**Mínimo Producto Viable**: Según Eric Ries, es la versión de un nuevo producto que permite a un equipo recoger el máximo aprendizaje validado de los clientes con el mínimo esfuerzo. [M6 T2]
+
 **Missing values**: Este es el término que indica que una información no está completa del todo o carece de toda la información para llamarla “completa”. [M3 T1]
+
+**MLOps**: Según Wikipedia, MLOps es un conjunto de herramientas y prácticas que persigue desplegar y mantener modelos de aprendizaje automático en producción de forma fiable y eficiente [M6 T2]
 
 **Modelo de lenguaje**: es una distribución de probabilidad sobre secuencias de palabras. Es habitual entrenar modelos de lenguaje como tarea general desde la cual realizar “transfer learning” para tareas más concretas. [M5 T9]
 
@@ -593,6 +612,7 @@ marp: false
 
 **Product-led growth (crecimiento liderado por el producto)**. Metodología de gestión de proyectos basada en el análisis de la interacción entre usuarios y el producto para derivar los puntos de mejora del último en el futuro. [M6 T1]
 
+**Product Owner**: Es un rol dentro de la metodología Scrum encargado de maximizar el valor del trabajo entregado, representando al cliente en el desarrollo y gestionando el backlog del producto para optimizar el alcance de los objetivos del proyecto. [M6 T2]
 
 **Producto cartesiano**: El producto cartesiano se emplea en el ámbito de la matemática, más precisamente en el campo del álgebra. El producto cartesiano revela una relación de orden entre dos conjuntos, constituyéndose como un tercer conjunto. [M3 T2]
 
@@ -603,6 +623,8 @@ marp: false
 **Programación funcional**: paradigma declarativo de programación que expresa la secuencia de las distintas operaciones a llevar a cabo [M2 T3]
 
 **Prompt**: símbolo o texto que se encuentra antes del cursor en la consola del sistema. [M1 T3]
+
+**Prototipo**: Un prototipo digital consiste en la construcción de una versión de un producto en la que el usuario final pueda explorar sus funcionalidades principales antes de que se construya. [M6 T2]
 
 **Propiedad visual**: Son las características visuales que nos permiten diferenciar los elementos en una representación gráfica. [M4 T2]
 
@@ -654,6 +676,8 @@ marp: false
 
 ## S
 
+**SAFe**: Conjunto de prácticas que aplican las metodologías ágiles en entornos corporativos escalados de gran tamaño. Por tanto, se trata de una implementación de estas metodologías que maneja la complejidad de los entornos escalados, que suelen tener diversos niveles de abstracción interconectados entre sí en cuanto a la gestión de proyectos se refiere. [M6 T2]
+
 **Sandbox**: Entorno aislado o de pruebas que nos permite probar o practicar sin alterar sistemas productivos. [M3 T2]
 
 **Saturación**: Es la intensidad de un color específico. [M4 T2]
@@ -661,6 +685,10 @@ marp: false
 **SCD**: El término dimensiones lentamente cambiantes (SCD, por sus siglas en inglés: Slowly Changing Dimensions) hace referencia a que los datos de las dimensiones van cambiando poco a poco a lo largo del tiempo. No son incrementales como los "hechos". Cada día hay nuevas ventas o pedidos, sin embargo la categorización de los productos o clientes va cambiando poco a poco a lo largo del tiempo. [M3 T2]
 
 **Script**: fichero que contiene unas instrucciones escritas en código que sirven para ejecutar diversas funciones dentro de un programa. [M1 T3]
+
+**Scrum**: Es una metodología ágil de gestión de proyectos que se basa en el desarrollo y entrega de los trabajos de forma incremental e iterativa, de forma que se optimice la calidad del producto en cada etapa y se incluyan los aprendizajes de iteraciones anteriores lo antes posible. [M6 T2]
+
+**Scrum Master**: Es un rol dentro de la metodología Scrum que se encarga de la gestión de los eventos y artefactos Scrum, facilitando al resto del equipo el desarrollo ágil del producto y optimizando así la calidad de los entregables incrementales. [M6 T2]
 
 **Semántica distribucional**: teoría semántica según la cual el significado de las palabras puede reducirse a los contextos en los que éstas tienden a aparecer.  [M5 T9]
 
@@ -745,6 +773,8 @@ marp: false
 **Teoría de grafos**: Teoría que busca representar de forma visual conjuntos de datos abstractos en formas de nodos o vértices y la unión o relaciones que estas pueden tener entre dichos nodos. [M4 T3]
 
 **Teoría del límite central**: La tendencia de la distribución muestral a adoptar una forma normal a medida que aumenta el tamaño de la muestra. [M4 T1]
+
+**Test Driven Development**: Paradigma de desarrollo de software basado en el uso de tests unitarios, que sirven como base de diseño de software y validación de casuísticas de manera temprana. [M6 T2]
 
 **Test estadístico**: herramienta para validar una hipótesis y estimar su certeza [M5 T2]
 
@@ -833,6 +863,8 @@ marp: false
 
 ## W
 
+**Waterfall**: Metodología de gestión de proyectos basada en un desarrollo secuencial de las diferentes etapas del mismo, de modo que cualquier etapa tiene toda la información necesaria para su desarrollo, eliminando incertidumbre y mejorando la visibilidad del proyecto en su conjunto, haciendo la planificación más intuitiva. [M6 T2]
+
 **Warning**: Mensajes que muestra el compilador sobre situaciones “especiales” en las que se ha detectado una anomalía pero que, asumiendo ciertas condiciones, la traducción del programa continúa [M2 T2]
 
 **Web** o **Word Wide Web** o **WWW**: sistema interconectado de páginas públicas a través de Internet. [M1 T1]
@@ -842,7 +874,6 @@ marp: false
 **Webmail**: sistema de correo electrónico que permite acceder a través de una navegador web. [M1 T1]
 
 **Weight of Evidence**. Es una transformación de una característica categórica según el logaritmo de la probabilidad de cada etiqueta, para un valor dado. [M6 T1]
-
 
 **Wordcloud**: método de visualización de un corpus que representa los elementos del vocabulario en distintos tamaños en función de su frecuencia. [M5 T9]
 
